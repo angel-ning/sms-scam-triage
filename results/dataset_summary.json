@@ -1,0 +1,50 @@
+{
+  "dataset": "rasheq/scam-shield-sms",
+  "splits": {
+    "train": {
+      "rows": 21054,
+      "labels": {
+        "safe": 10643,
+        "scam": 10411
+      },
+      "sources": {
+        "imc2025": 8146,
+        "synthetic": 4953,
+        "mishra_soni": 3986,
+        "synthetic_v2": 3969
+      }
+    },
+    "validation": {
+      "rows": 1508,
+      "labels": {
+        "scam": 1043,
+        "safe": 465
+      },
+      "sources": {
+        "imc2025": 1009,
+        "mishra_soni": 499
+      }
+    },
+    "test": {
+      "rows": 1510,
+      "labels": {
+        "scam": 1045,
+        "safe": 465
+      },
+      "sources": {
+        "imc2025": 1012,
+        "mishra_soni": 498
+      }
+    }
+  },
+  "p2_test": {
+    "rows": 737,
+    "queues": {
+      "banking": 428,
+      "delivery": 99,
+      "telecom": 96,
+      "government": 91,
+      "personal": 23
+    }
+  }
+}

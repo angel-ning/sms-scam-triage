@@ -1,0 +1,11 @@
+# Packages for the experiment programs in programs/ (training + evaluation).
+# Install PyTorch FIRST with the command in README.md (the right build depends
+# on your GPU), then: pip install -r requirements-train.txt
+transformers==5.24.1
+datasets==5.2.0
+accelerate==1.16.0
+huggingface_hub==2.4.0
+scikit-learn==1.9.1
+pandas==3.1.1
+numpy==2.5.5
+openpyxl==3.1.5

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model weights are large: the fine-tuned model lives on the Hugging Face Hub
+# (and is copied into the Canvas zip separately), not in git.
+models/
+
+# Smoke-test outputs are only for checking the code
+results/smoke/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
