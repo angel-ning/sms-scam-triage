@@ -32,8 +32,31 @@ programs/                 experiment programs (.py)
   run_all.py              runs steps 1-5 in order
 data/                     dataset CSVs (committed so every run uses the same data)
 results/                  experiment tables (CSV/JSON) quoted in the report
-app/                      Streamlit app (to be added)
+app/
+  app.py                  Streamlit app (single message, batch CSV, about)
+  requirements.txt        app-only packages (CPU PyTorch) used by Streamlit Cloud
+  sample_messages.csv     12 realistic US messages with labels, for demos
+.streamlit/config.toml    app theme and upload limit
 ```
+
+## The Streamlit app
+
+For each message the app masks links / numbers, runs the fine-tuned classifier
+(scam or safe), runs the zero-shot tagger on scams only, and shows a priority
+(🔴 High / 🟡 Review / 🟢 Low), a full-sentence summary and a recommended
+action in a table. Batch mode takes a CSV with a `text` column; if a `label`
+column is present, the app also reports accuracy on that file (used for the
+live-app tests).
+
+The classifier is loaded from, in order: the `SCAM_MODEL` environment
+variable, the local `models/finetuned-scam-classifier/`, then
+`config.HF_MODEL_REPO` on the Hugging Face Hub (what Streamlit Cloud uses).
+
+```bash
+streamlit run app/app.py
+```
+
+Streamlit Cloud settings: main file `app/app.py`; packages come from `app/requirements.txt`.
 
 ## Running the experiments on the Windows GPU machine
 
