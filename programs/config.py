@@ -68,8 +68,7 @@ P1_CHOSEN_BASE = "mariagrandury/roberta-base-finetuned-sms-spam-detection"
 
 FINETUNED_DIRNAME = "finetuned-scam-classifier"
 # Hugging Face Hub repo the fine-tuned model is uploaded to (used by the app).
-# TODO: replace YOUR-HF-USERNAME with the group's Hugging Face username.
-HF_MODEL_REPO = "YOUR-HF-USERNAME/att-sms-scam-classifier"
+HF_MODEL_REPO = "Angel426/att-sms-scam-classifier"
 
 # Fine-tuning hyper-parameters
 MAX_TOKENS = 128            # SMS median is ~100 characters, so 128 tokens is plenty
