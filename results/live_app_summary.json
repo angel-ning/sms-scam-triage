@@ -1,0 +1,40 @@
+{
+  "messages": 50,
+  "accuracy": 0.92,
+  "recall_scam": 0.84,
+  "false_positive_rate": 0.0,
+  "confusion": {
+    "tp": 21,
+    "fp": 0,
+    "tn": 25,
+    "fn": 4
+  },
+  "by_category": {
+    "safe_personal": {
+      "messages": 10,
+      "correct": 10,
+      "accuracy": 1.0
+    },
+    "safe_service": {
+      "messages": 15,
+      "correct": 15,
+      "accuracy": 1.0
+    },
+    "scam_casual": {
+      "messages": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    "scam_typical": {
+      "messages": 20,
+      "correct": 17,
+      "accuracy": 0.85
+    }
+  },
+  "sent_to_review": 1,
+  "scam_type_accuracy": 0.9048,
+  "scam_type_scored_on": 21,
+  "criterion_1_live_accuracy_met": false,
+  "criterion_2_service_false_positive_rate": 0.0,
+  "criterion_2_met": true
+}

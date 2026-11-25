@@ -219,7 +219,15 @@ def single_message_tab(classifier, tagger, threshold: float) -> None:
         if len(text.strip()) > MAX_MESSAGE_CHARS:
             st.info(f"Only the first {MAX_MESSAGE_CHARS} characters were analyzed.")
         with st.spinner("Analyzing…"):
-            table = triage(cleaned, classifier, tagger, threshold)
+            st.session_state["single_result"] = (text, threshold,
+                                                 triage(cleaned, classifier, tagger, threshold))
+
+    # Show the last result until the message changes (it survives other clicks).
+    stored = st.session_state.get("single_result")
+    if stored and stored[0] == text:
+        stored_text, stored_threshold, table = stored
+        if stored_threshold != threshold:
+            st.caption("The review threshold changed - click Analyze again to apply it.")
         row = table.iloc[0].to_dict()
         st.subheader(f"Priority: {row['Priority']}")
         st.markdown(summary_sentence(row))
@@ -232,7 +240,8 @@ def batch_tab(classifier, tagger, threshold: float) -> None:
              "If it also has a **label** column (scam / safe), the app reports its accuracy.")
     if SAMPLE_CSV.exists():
         st.download_button("Download a sample CSV", SAMPLE_CSV.read_bytes(),
-                           file_name="sample_messages.csv", mime="text/csv")
+                           file_name="sample_messages.csv", mime="text/csv",
+                           on_click="ignore")
     upload = st.file_uploader("CSV file", type="csv")
     if upload is None:
         return
@@ -254,8 +263,17 @@ def batch_tab(classifier, tagger, threshold: float) -> None:
     if not keep:
         st.error("No non-empty messages found in the 'text' column.")
         return
-    with st.spinner(f"Analyzing {len(keep)} messages…"):
-        table = triage([texts[i] for i in keep], classifier, tagger, threshold)
+
+    # Streamlit re-runs the whole script after every interaction. Keep the last
+    # result in session_state so the models only run again when the file or
+    # the threshold changes, not on every click.
+    run_key = (upload.file_id, threshold)
+    if st.session_state.get("batch_key") != run_key:
+        with st.spinner(f"Analyzing {len(keep)} messages…"):
+            st.session_state["batch_table"] = triage([texts[i] for i in keep],
+                                                     classifier, tagger, threshold)
+        st.session_state["batch_key"] = run_key
+    table = st.session_state["batch_table"].copy()
 
     counts = table["Priority"].value_counts()
     cols = st.columns(3)
@@ -274,7 +292,8 @@ def batch_tab(classifier, tagger, threshold: float) -> None:
     table = table.sort_values("Priority", key=lambda s: s.map(PRIORITY_ORDER), kind="stable")
     display_table(table)
     st.download_button("Download results (CSV)", table.to_csv(index=False).encode("utf-8"),
-                       file_name="triage_results.csv", mime="text/csv")
+                       file_name="triage_results.csv", mime="text/csv",
+                       on_click="ignore")       # downloading must not re-run the page
 
 
 def about_tab() -> None:
@@ -322,4 +341,5 @@ def main() -> None:
         about_tab()
 
 
-main()
+if __name__ == "__main__":     # Streamlit runs this file as __main__; importing it
+    main()                     # (e.g. from analyze_live_test.py) only loads the functions

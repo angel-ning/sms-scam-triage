@@ -1,0 +1,51 @@
+id,category,text,label,Verdict,Confidence,correct,expected_type,Scam type,Type confidence,type_correct,Priority
+1,scam_typical,"Wells Fargo: A $1,284.50 Zelle transfer was started from your account. If this was not you, cancel it at wf-secure-alerts.com/cancel",scam,safe,0.9993133544921875,False,banking,—,,,🟢 Low
+2,scam_typical,Capital One Fraud Dept: Your card ending 4471 has been locked after suspicious activity. Restore access now: capone-verify.net,scam,scam,0.9996046423912048,True,banking,banking,0.8977413177490234,True,🔴 High
+3,scam_typical,"Chase Alert: We noticed a login from Houston, TX. Reply YES if this was you or NO to block it. Our agent will call to confirm your PIN.",scam,scam,0.8969649076461792,True,banking,banking,0.9596834182739258,True,🔴 High
+4,scam_typical,Venmo: Your account is limited until you confirm your identity. Upload your ID within 24 hrs at venmo-review-center.com,scam,scam,0.9304439425468445,True,banking,banking,0.4117685854434967,True,🔴 High
+5,scam_typical,Citi: Your debit card was used for a $799 purchase at Best Buy. Not you? Call 1-833-555-0148 immediately.,scam,safe,0.9706818461418152,False,banking,—,,,🟢 Low
+6,scam_typical,USPS: We tried to deliver your parcel but the house number is missing. Update it within 12 hours or it will be returned: usps-postal-care.com,scam,scam,0.9979568719863892,True,delivery,delivery,0.7192503213882446,True,🔴 High
+7,scam_typical,FedEx: Shipment 7782 is held at customs. A $2.45 release fee is required. Pay here: fedex-clearance.info/pay,scam,scam,0.9990563988685608,True,delivery,delivery,0.9128867983818054,True,🔴 High
+8,scam_typical,UPS notice: Your package could not be delivered. Reschedule and confirm your card details at ups-redelivery-now.top,scam,scam,0.9972233772277832,True,delivery,delivery,0.9803873896598816,True,🔴 High
+9,scam_typical,Amazon: Order #112-8841 was flagged and the delivery is on hold. Verify your payment method at amzn-orders-help.com,scam,scam,0.9941840767860413,True,delivery,delivery,0.3255902826786041,True,🔴 High
+10,scam_typical,DHL Express: Your package is waiting at our depot. Track it and pay the small handling charge at dhl-parcel-track.us,scam,safe,0.5754031538963318,False,delivery,—,,,🟡 Review
+11,scam_typical,The Toll Roads: You have an outstanding toll of $4.15. Pay by today to avoid a $35 penalty and a DMV hold: tollroads-pay-center.com,scam,scam,0.9994596838951111,True,government,government,0.8164132833480835,True,🔴 High
+12,scam_typical,IRS Notice: Your 2025 return has an unclaimed refund of $892. Claim it before it expires: irs-gov-refund.com,scam,scam,0.9992160797119141,True,government,government,0.9580475687980652,True,🔴 High
+13,scam_typical,Social Security Administration: Your SSN has been suspended due to suspicious activity. Call 202-555-0177 now to avoid arrest.,scam,scam,0.9990329742431641,True,government,government,0.9694204330444336,True,🔴 High
+14,scam_typical,DMV: Your driver license will be suspended for unpaid traffic violations. Settle the fine online at dmv-ticket-portal.net,scam,scam,0.9979162812232971,True,government,government,0.9691211581230164,True,🔴 High
+15,scam_typical,"US Treasury: You qualify for a $1,400 relief payment. Confirm your bank account to receive the deposit: treasury-relief.org",scam,scam,0.9996678829193115,True,government,government,0.7363176941871643,True,🔴 High
+16,scam_typical,AT&T: Your account is past due and service will be cut off at 5PM today. Pay now to avoid disconnection: att-billpay-secure.com,scam,scam,0.9991949200630188,True,telecom,telecom,0.7894261479377747,True,🔴 High
+17,scam_typical,AT&T Rewards: Thanks for paying your bill! You have earned a free Samsung Galaxy. Claim your gift here: att-loyalty-gift.com,scam,scam,0.9996156692504883,True,telecom,telecom,0.8317804336547852,True,🔴 High
+18,scam_typical,"Verizon: We detected a SIM change request on your line. If this was not you, sign in at vz-account-protect.com to cancel it",scam,scam,0.9964430928230286,True,telecom,telecom,0.9695897102355957,True,🔴 High
+19,scam_typical,T-Mobile: Your number will be deactivated in 24 hours due to an incomplete account update. Verify at tmo-update.info,scam,scam,0.9975538849830627,True,telecom,telecom,0.8264743089675903,True,🔴 High
+20,scam_typical,"AT&T Security: To keep your line active, reply with the 6-digit code we just sent you.",scam,scam,0.9712726473808289,True,telecom,telecom,0.9338218569755554,True,🔴 High
+21,scam_casual,"Hi Dad, this is my new number, my phone fell in the pool. Can you help me pay a bill today? I'll explain later",scam,scam,0.9893292784690857,True,personal,telecom,0.37435275316238403,False,🔴 High
+22,scam_casual,"omg sorry I think I texted the wrong person, I was looking for Daniel from the gym. since we're chatting, how's your week going?",scam,safe,0.9894872903823853,False,personal,—,,,🟢 Low
+23,scam_casual,"Mom it's me, I'm stuck at the airport and my card got blocked. Can you send $250 on Zelle to this number?",scam,scam,0.9990149736404419,True,personal,banking,0.4048973321914673,False,🔴 High
+24,scam_casual,"hi, we met at Sarah's wedding last month. I trade crypto now and the returns are great, want me to show you how?",scam,scam,0.9892740845680237,True,personal,personal,0.4295503795146942,True,🔴 High
+25,scam_casual,"Grandma I'm in trouble, I got arrested and need bail money. Please don't tell mom, I'll call you soon",scam,scam,0.9870219826698303,True,personal,personal,0.48627570271492004,True,🔴 High
+26,safe_service,AT&T Free Msg: Your AutoPay payment of $65.00 was received. Thank you! Manage your account at att.com/myatt,safe,safe,0.998316764831543,True,,—,,,🟢 Low
+27,safe_service,AT&T: Your one-time passcode is 728194. Do not share it. AT&T will never ask you for this code.,safe,safe,0.9993709921836853,True,,—,,,🟢 Low
+28,safe_service,AT&T Free Msg: Your wireless bill is ready. Amount due $92.18 by Dec 12. View it at att.com/mybill,safe,safe,0.9995662569999695,True,,—,,,🟢 Low
+29,safe_service,"Bank of America: A $54.20 purchase was made with your debit card ending 3302 at Target. If this was you, no action is needed.",safe,safe,0.9996826648712158,True,,—,,,🟢 Low
+30,safe_service,Your Wells Fargo verification code is 503826. It expires in 10 minutes.,safe,safe,0.9996495246887207,True,,—,,,🟢 Low
+31,safe_service,USPS: Your package 9400111899223 was delivered to your front door at 2:14 pm.,safe,safe,0.9996815919876099,True,,—,,,🟢 Low
+32,safe_service,"Amazon: Good news, your order of kitchen towels is out for delivery and should arrive by 8pm today.",safe,safe,0.9996657371520996,True,,—,,,🟢 Low
+33,safe_service,FedEx: Your shipment is scheduled for delivery on Thursday. No signature is required.,safe,safe,0.9996905326843262,True,,—,,,🟢 Low
+34,safe_service,Dr. Patel's office: Reminder of your appointment on Dec 3 at 10:30 AM. Reply C to confirm or call us to reschedule.,safe,safe,0.9996671676635742,True,,—,,,🟢 Low
+35,safe_service,Walgreens: Your flu shot appointment is confirmed for Saturday at 11:00 AM.,safe,safe,0.9996957778930664,True,,—,,,🟢 Low
+36,safe_service,Uber: Your driver Maria is arriving in 3 minutes in a gray Toyota Camry.,safe,safe,0.999721109867096,True,,—,,,🟢 Low
+37,safe_service,DoorDash: Your order from Chipotle is on the way. Estimated arrival 6:45 PM.,safe,safe,0.9997366070747375,True,,—,,,🟢 Low
+38,safe_service,Delta: Flight DL1423 to Atlanta departs at 7:05 AM from Gate B12. Check in at delta.com,safe,safe,0.999724805355072,True,,—,,,🟢 Low
+39,safe_service,G-482915 is your Google verification code.,safe,safe,0.9988614320755005,True,,—,,,🟢 Low
+40,safe_service,Spotify: Your Premium plan renews on Dec 1 for $11.99. You can manage it in your account settings.,safe,safe,0.9996799230575562,True,,—,,,🟢 Low
+41,safe_personal,"Running 10 min late, save me a seat",safe,safe,0.9993616938591003,True,,—,,,🟢 Low
+42,safe_personal,Can you grab milk and eggs on your way home?,safe,safe,0.999358594417572,True,,—,,,🟢 Low
+43,safe_personal,Happy birthday!! Hope you have an amazing day 🎉,safe,safe,0.9968039989471436,True,,—,,,🟢 Low
+44,safe_personal,Did you see the game last night? Crazy ending,safe,safe,0.999413013458252,True,,—,,,🟢 Low
+45,safe_personal,"Mom says dinner is at 6 on Sunday, bring the kids",safe,safe,0.9996157884597778,True,,—,,,🟢 Low
+46,safe_personal,"I sent you the Venmo for the concert tickets, thanks for buying them",safe,safe,0.9984927177429199,True,,—,,,🟢 Low
+47,safe_personal,Can you pay me back the $40 for the Uber whenever you get a chance?,safe,safe,0.9988441467285156,True,,—,,,🟢 Low
+48,safe_personal,"Hey it's Jen from work, this is my new number. Save it!",safe,safe,0.8077604174613953,True,,—,,,🟢 Low
+49,safe_personal,"Your package from mom arrived at my place, come pick it up anytime",safe,safe,0.9993384480476379,True,,—,,,🟢 Low
+50,safe_personal,"Meeting moved to 3pm, same zoom link as before",safe,safe,0.999478280544281,True,,—,,,🟢 Low

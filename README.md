@@ -30,6 +30,8 @@ programs/                 experiment programs (.py)
   zeroshot_select.py      5. compare 3 zero-shot taggers (Pipeline 2)
   push_to_hub.py          6. upload the fine-tuned model to Hugging Face
   run_all.py              runs steps 1-5 in order
+  analyze_live_test.py    7. score the live-app tests (data/live_app_test.csv) against
+                             the success criteria; --local re-runs the app code on CPU
 data/                     dataset CSVs (committed so every run uses the same data)
 results/                  experiment tables (CSV/JSON) quoted in the report
 app/

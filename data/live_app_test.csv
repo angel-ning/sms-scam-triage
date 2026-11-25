@@ -1,0 +1,51 @@
+id,text,label,expected_type,category
+1,"Wells Fargo: A $1,284.50 Zelle transfer was started from your account. If this was not you, cancel it at wf-secure-alerts.com/cancel",scam,banking,scam_typical
+2,Capital One Fraud Dept: Your card ending 4471 has been locked after suspicious activity. Restore access now: capone-verify.net,scam,banking,scam_typical
+3,"Chase Alert: We noticed a login from Houston, TX. Reply YES if this was you or NO to block it. Our agent will call to confirm your PIN.",scam,banking,scam_typical
+4,Venmo: Your account is limited until you confirm your identity. Upload your ID within 24 hrs at venmo-review-center.com,scam,banking,scam_typical
+5,Citi: Your debit card was used for a $799 purchase at Best Buy. Not you? Call 1-833-555-0148 immediately.,scam,banking,scam_typical
+6,USPS: We tried to deliver your parcel but the house number is missing. Update it within 12 hours or it will be returned: usps-postal-care.com,scam,delivery,scam_typical
+7,FedEx: Shipment 7782 is held at customs. A $2.45 release fee is required. Pay here: fedex-clearance.info/pay,scam,delivery,scam_typical
+8,UPS notice: Your package could not be delivered. Reschedule and confirm your card details at ups-redelivery-now.top,scam,delivery,scam_typical
+9,Amazon: Order #112-8841 was flagged and the delivery is on hold. Verify your payment method at amzn-orders-help.com,scam,delivery,scam_typical
+10,DHL Express: Your package is waiting at our depot. Track it and pay the small handling charge at dhl-parcel-track.us,scam,delivery,scam_typical
+11,The Toll Roads: You have an outstanding toll of $4.15. Pay by today to avoid a $35 penalty and a DMV hold: tollroads-pay-center.com,scam,government,scam_typical
+12,IRS Notice: Your 2025 return has an unclaimed refund of $892. Claim it before it expires: irs-gov-refund.com,scam,government,scam_typical
+13,Social Security Administration: Your SSN has been suspended due to suspicious activity. Call 202-555-0177 now to avoid arrest.,scam,government,scam_typical
+14,DMV: Your driver license will be suspended for unpaid traffic violations. Settle the fine online at dmv-ticket-portal.net,scam,government,scam_typical
+15,"US Treasury: You qualify for a $1,400 relief payment. Confirm your bank account to receive the deposit: treasury-relief.org",scam,government,scam_typical
+16,AT&T: Your account is past due and service will be cut off at 5PM today. Pay now to avoid disconnection: att-billpay-secure.com,scam,telecom,scam_typical
+17,AT&T Rewards: Thanks for paying your bill! You have earned a free Samsung Galaxy. Claim your gift here: att-loyalty-gift.com,scam,telecom,scam_typical
+18,"Verizon: We detected a SIM change request on your line. If this was not you, sign in at vz-account-protect.com to cancel it",scam,telecom,scam_typical
+19,T-Mobile: Your number will be deactivated in 24 hours due to an incomplete account update. Verify at tmo-update.info,scam,telecom,scam_typical
+20,"AT&T Security: To keep your line active, reply with the 6-digit code we just sent you.",scam,telecom,scam_typical
+21,"Hi Dad, this is my new number, my phone fell in the pool. Can you help me pay a bill today? I'll explain later",scam,personal,scam_casual
+22,"omg sorry I think I texted the wrong person, I was looking for Daniel from the gym. since we're chatting, how's your week going?",scam,personal,scam_casual
+23,"Mom it's me, I'm stuck at the airport and my card got blocked. Can you send $250 on Zelle to this number?",scam,personal,scam_casual
+24,"hi, we met at Sarah's wedding last month. I trade crypto now and the returns are great, want me to show you how?",scam,personal,scam_casual
+25,"Grandma I'm in trouble, I got arrested and need bail money. Please don't tell mom, I'll call you soon",scam,personal,scam_casual
+26,AT&T Free Msg: Your AutoPay payment of $65.00 was received. Thank you! Manage your account at att.com/myatt,safe,,safe_service
+27,AT&T: Your one-time passcode is 728194. Do not share it. AT&T will never ask you for this code.,safe,,safe_service
+28,AT&T Free Msg: Your wireless bill is ready. Amount due $92.18 by Dec 12. View it at att.com/mybill,safe,,safe_service
+29,"Bank of America: A $54.20 purchase was made with your debit card ending 3302 at Target. If this was you, no action is needed.",safe,,safe_service
+30,Your Wells Fargo verification code is 503826. It expires in 10 minutes.,safe,,safe_service
+31,USPS: Your package 9400111899223 was delivered to your front door at 2:14 pm.,safe,,safe_service
+32,"Amazon: Good news, your order of kitchen towels is out for delivery and should arrive by 8pm today.",safe,,safe_service
+33,FedEx: Your shipment is scheduled for delivery on Thursday. No signature is required.,safe,,safe_service
+34,Dr. Patel's office: Reminder of your appointment on Dec 3 at 10:30 AM. Reply C to confirm or call us to reschedule.,safe,,safe_service
+35,Walgreens: Your flu shot appointment is confirmed for Saturday at 11:00 AM.,safe,,safe_service
+36,Uber: Your driver Maria is arriving in 3 minutes in a gray Toyota Camry.,safe,,safe_service
+37,DoorDash: Your order from Chipotle is on the way. Estimated arrival 6:45 PM.,safe,,safe_service
+38,Delta: Flight DL1423 to Atlanta departs at 7:05 AM from Gate B12. Check in at delta.com,safe,,safe_service
+39,G-482915 is your Google verification code.,safe,,safe_service
+40,Spotify: Your Premium plan renews on Dec 1 for $11.99. You can manage it in your account settings.,safe,,safe_service
+41,"Running 10 min late, save me a seat",safe,,safe_personal
+42,Can you grab milk and eggs on your way home?,safe,,safe_personal
+43,Happy birthday!! Hope you have an amazing day 🎉,safe,,safe_personal
+44,Did you see the game last night? Crazy ending,safe,,safe_personal
+45,"Mom says dinner is at 6 on Sunday, bring the kids",safe,,safe_personal
+46,"I sent you the Venmo for the concert tickets, thanks for buying them",safe,,safe_personal
+47,Can you pay me back the $40 for the Uber whenever you get a chance?,safe,,safe_personal
+48,"Hey it's Jen from work, this is my new number. Save it!",safe,,safe_personal
+49,"Your package from mom arrived at my place, come pick it up anytime",safe,,safe_personal
+50,"Meeting moved to 3pm, same zoom link as before",safe,,safe_personal
