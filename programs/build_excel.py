@@ -83,6 +83,11 @@ def load_inputs() -> dict:
     }
 
 
+def fpr(r) -> float:
+    """False-alarm rate from the raw counts (the CSV rate is rounded to 4 places)."""
+    return r.fp / (r.fp + r.tn)
+
+
 def best_epoch(ft_log: dict) -> int:
     """Epoch with the best validation F1 (the one load_best_model_at_end kept)."""
     epochs = [e for e in ft_log["epoch_history"] if "step" in e]
@@ -268,7 +273,7 @@ def p1_selection(w: SheetWriter, d: dict) -> None:
 
     def notes(m) -> str:
         r = p1.loc[m]
-        stats = (f"Scam recall {r.recall_scam:.1%}; false alarms {r.false_positive_rate:.1%} "
+        stats = (f"Scam recall {r.recall_scam:.1%}; false alarms {fpr(r):.1%} "
                  f"({int(r.fp)} of {int(r.fp + r.tn)} safe); {r.parameters_millions:.0f}M parameters. ")
         return stats + P1_COMMENTS[m]
 
@@ -292,10 +297,10 @@ def p1_selection(w: SheetWriter, d: dict) -> None:
     ng = p1.loc["Ngadou/bert-sms-spam-dectector"]
     w.label_value("Justification (not accuracy alone)",
                   f"Model {chosen_index} is picked although Model 3 has higher accuracy "
-                  f"({ng.accuracy:.3f} vs {c.accuracy:.3f}). Model 3 flags {ng.false_positive_rate:.1%} "
+                  f"({ng.accuracy:.3f} vs {c.accuracy:.3f}). Model 3 flags {fpr(ng):.1%} "
                   f"of safe messages ({int(ng.fp)} of {int(ng.fp + ng.tn)}); at AT&T's report volume "
                   "that would bury analysts in false alarms. Model 2 flags only "
-                  f"{int(c.fp)} safe message ({c.false_positive_rate:.1%}): its weakness is missed "
+                  f"{int(c.fp)} safe message ({fpr(c):.1%}): its weakness is missed "
                   f"scams (recall {c.recall_scam:.1%}), because it learned 2012-style advertising "
                   "spam, and that is exactly the gap fine-tuning on modern scam texts can close. "
                   f"Its {c.ms_per_message:.1f} ms per message is ample for analyst use, and the "
@@ -333,7 +338,7 @@ def p1_finetune(w: SheetWriter, d: dict) -> dict:
     pre, post = ft.loc["pretrained"], ft.loc["fine-tuned"]
 
     def stats(r) -> str:
-        return (f"Scam recall {r.recall_scam:.1%}; false alarms {r.false_positive_rate:.1%} "
+        return (f"Scam recall {r.recall_scam:.1%}; false alarms {fpr(r):.1%} "
                 f"({int(r.fp)} of {int(r.fp + r.tn)} safe); {int(r.fp + r.fn)} errors in total.")
 
     pre_row = w.table_row([("A", "A", "Pretrained", {}), ("B", "B", config.P1_CHOSEN_BASE, {}),
@@ -485,7 +490,7 @@ def criteria_and_conclusion(w: SheetWriter, d: dict, refs: dict) -> None:
         ("C", "F", f"Held-out accuracy of the fine-tuned model is {post.accuracy:.3f} on "
                    f"{int(post.n_samples):,} real messages (pretrained baseline {pre.accuracy:.3f}), "
                    f"above the 0.95 target, with scam recall {post.recall_scam:.1%} and "
-                   f"{post.false_positive_rate:.1%} false alarms. On the harder live set the app scores "
+                   f"{fpr(post):.1%} false alarms. On the harder live set the app scores "
                    f"{s['accuracy']:.0%}, below 95%: the live set deliberately includes scams that "
                    "imitate genuine alerts.", {}),
     ])
@@ -498,7 +503,7 @@ def criteria_and_conclusion(w: SheetWriter, d: dict, refs: dict) -> None:
                    f"{s['by_category']['safe_personal']['messages']} personal chats were flagged, "
                    "so routine messages do not flood the high-risk queue. Caveat: 15 alerts is a "
                    "small sample, and the held-out false-alarm rate "
-                   f"({post.false_positive_rate:.1%}) is the larger-sample evidence.", {}),
+                   f"({fpr(post):.1%}) is the larger-sample evidence.", {}),
     ])
     w.spacer()
 
