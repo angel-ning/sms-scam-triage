@@ -1,3 +1,3 @@
 pipeline,role,model,n_samples,runtime_seconds,ms_per_message,parameters_millions,device,accuracy,precision_scam,recall_scam,f1_scam,false_positive_rate,tp,fp,tn,fn
-P1 scam vs safe,pretrained,mariagrandury/roberta-base-finetuned-sms-spam-detection,1510,1.94,1.28,124.6,NVIDIA GeForce RTX 5070,0.796,0.9986,0.7062,0.8274,0.0022,738,1,464,307
-P1 scam vs safe,fine-tuned,mariagrandury/roberta-base-finetuned-sms-spam-detection (fine-tuned on rasheq/scam-shield-sms),1510,1.94,1.28,124.6,NVIDIA GeForce RTX 5070,0.9901,0.9961,0.9895,0.9928,0.0086,1034,4,461,11
+P1 scam vs safe,pretrained,mariagrandury/roberta-base-finetuned-sms-spam-detection,1510,13.25,8.78,124.6,Apple GPU (MPS) on arm64,0.796,0.9986,0.7062,0.8274,0.0022,738,1,464,307
+P1 scam vs safe,fine-tuned,mariagrandury/roberta-base-finetuned-sms-spam-detection (fine-tuned on rasheq/scam-shield-sms),1510,13.1,8.68,124.6,Apple GPU (MPS) on arm64,0.9901,0.9961,0.9895,0.9928,0.0086,1034,4,461,11

@@ -1,0 +1,43 @@
+######## python predict_base.py  (2026-11-25 23:23)
+Pipeline 1 model selection on 1510 held-out messages (mps)
+> candidate: mrm8488/bert-tiny-finetuned-sms-spam-detection
+  accuracy=0.543  recall_scam=0.343  FPR=0.006  runtime=0.7s
+> candidate: mariagrandury/roberta-base-finetuned-sms-spam-detection
+  accuracy=0.796  recall_scam=0.706  FPR=0.002  runtime=13.0s
+> candidate: Ngadou/bert-sms-spam-dectector
+  accuracy=0.845  recall_scam=0.862  FPR=0.194  runtime=13.0s
+> benchmark: rasheq/scam-shield-distilbert
+  accuracy=0.985  recall_scam=0.988  FPR=0.022  runtime=6.4s
+Saved 4 result row(s) -> /Users/angelning/Desktop/港科大/2026_Fall_2nd/ISOM_5160/assignments/group_project/Project/sms-scam-triage/results/p1_pretrained_comparison.csv
+     role                                                   model  accuracy  recall_scam  false_positive_rate  f1_scam  runtime_seconds  ms_per_message  parameters_millions
+candidate          mrm8488/bert-tiny-finetuned-sms-spam-detection    0.5430       0.3426               0.0065   0.5092             0.66            0.43                  4.4
+candidate mariagrandury/roberta-base-finetuned-sms-spam-detection    0.7960       0.7062               0.0022   0.8274            12.96            8.58                124.6
+candidate                          Ngadou/bert-sms-spam-dectector    0.8450       0.8622               0.1935   0.8851            12.99            8.60                109.5
+benchmark                           rasheq/scam-shield-distilbert    0.9848       0.9876               0.0215   0.9890             6.39            4.23                 67.0
+Model chosen for fine-tuning (config.P1_CHOSEN_BASE): mariagrandury/roberta-base-finetuned-sms-spam-detection
+######## python predict_finetuned.py  (2026-11-25 23:24)
+/Users/angelning/Desktop/港科大/2026_Fall_2nd/ISOM_5160/assignments/group_project/Project/sms-scam-triage/models/finetuned-scam-classifier not found - using the published model Angel426/att-sms-scam-classifier
+Pretrained vs fine-tuned on 1510 held-out messages (mps)
+> pretrained: mariagrandury/roberta-base-finetuned-sms-spam-detection
+> fine-tuned: Angel426/att-sms-scam-classifier
+  15 misclassified messages saved for error analysis
+Saved 2 result row(s) -> /Users/angelning/Desktop/港科大/2026_Fall_2nd/ISOM_5160/assignments/group_project/Project/sms-scam-triage/results/p1_pretrained_vs_finetuned.csv
+      role                                                                                          model  accuracy  recall_scam  false_positive_rate  f1_scam  runtime_seconds  ms_per_message  parameters_millions
+pretrained                                        mariagrandury/roberta-base-finetuned-sms-spam-detection    0.7960       0.7062               0.0022   0.8274            13.25            8.78                124.6
+fine-tuned mariagrandury/roberta-base-finetuned-sms-spam-detection (fine-tuned on rasheq/scam-shield-sms)    0.9901       0.9895               0.0086   0.9928            13.10            8.68                124.6
+######## python zeroshot_select.py  (2026-11-25 23:24)
+Pipeline 2 model selection on 737 real scam messages (mps)
+Queue sizes: {'banking': 428, 'delivery': 99, 'telecom': 96, 'government': 91, 'personal': 23}
+> candidate: facebook/bart-large-mnli
+Could not reach the Hub ([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)). Using cached commit hash for 'MoritzLaurer/deberta-v3-base-zeroshot-v2.0'.
+  accuracy=0.621  macro_f1=0.556  runtime=127.3s
+> candidate: MoritzLaurer/deberta-v3-base-zeroshot-v2.0
+  accuracy=0.818  macro_f1=0.758  runtime=61.9s
+> candidate: typeform/distilbert-base-uncased-mnli
+  accuracy=0.383  macro_f1=0.251  runtime=16.1s
+Saved 3 result row(s) -> /Users/angelning/Desktop/港科大/2026_Fall_2nd/ISOM_5160/assignments/group_project/Project/sms-scam-triage/results/p2_zeroshot_comparison.csv
+                                     model  accuracy  macro_f1  runtime_seconds  ms_per_message  parameters_millions
+                  facebook/bart-large-mnli    0.6214    0.5557           127.29          172.72                407.3
+MoritzLaurer/deberta-v3-base-zeroshot-v2.0    0.8182    0.7580            61.95           84.06                184.4
+     typeform/distilbert-base-uncased-mnli    0.3826    0.2510            16.09           21.84                 67.0
+Model used in the app (config.P2_CHOSEN_MODEL): MoritzLaurer/deberta-v3-base-zeroshot-v2.0

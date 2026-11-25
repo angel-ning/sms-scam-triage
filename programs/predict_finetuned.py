@@ -6,7 +6,8 @@ Output
   results/p1_finetuned_errors.csv          (every misclassified message, for the report)
 
 Usage
-  python predict_finetuned.py            # needs models/finetuned-scam-classifier
+  python predict_finetuned.py            # local models/finetuned-scam-classifier,
+                                         # or the published Hub model if absent
   python predict_finetuned.py --smoke    # uses the smoke-test model
 """
 
@@ -23,15 +24,22 @@ def main(smoke: bool = False) -> None:
     device = utils.get_device()
     out_dir = utils.results_dir(smoke)
     model_dir = utils.finetuned_dir(smoke)
-    if not model_dir.exists():
-        raise SystemExit(f"{model_dir} not found - run finetune.py first.")
+    if model_dir.exists():
+        finetuned_source = str(model_dir)
+    elif not smoke:
+        # No local training output (e.g. a grader who did not re-train):
+        # use the identical model that push_to_hub.py published.
+        finetuned_source = config.HF_MODEL_REPO
+        print(f"{model_dir} not found - using the published model {finetuned_source}")
+    else:
+        raise SystemExit(f"{model_dir} not found - run finetune.py --smoke first.")
 
     test = utils.load_split("test", limit=config.SMOKE_SAMPLE_SIZE if smoke else None)
     print(f"Pretrained vs fine-tuned on {len(test)} held-out messages ({device})")
 
     versions = [
         (config.P1_CHOSEN_BASE, config.P1_CANDIDATES[config.P1_CHOSEN_BASE], "pretrained"),
-        (str(model_dir), {config.LABEL_SAFE: config.LABEL_SAFE,
+        (finetuned_source, {config.LABEL_SAFE: config.LABEL_SAFE,
                           config.LABEL_SCAM: config.LABEL_SCAM}, "fine-tuned"),
     ]
     rows = []

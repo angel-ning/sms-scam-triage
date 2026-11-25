@@ -44,8 +44,14 @@ def load_zero_shot(model_id: str, device: str):
 
 def evaluate_tagger(model_id: str, data, device: str):
     tagger, used_device = load_zero_shot(model_id, device)
+    texts = data[config.TEXT_COL].tolist()
+
+    # Untimed warm-up on one full batch (same reason as in classify.py)
+    tagger(texts[:config.INFER_BATCH_SIZE], candidate_labels=list(DESCRIPTION_TO_QUEUE),
+           hypothesis_template=config.P2_HYPOTHESIS, batch_size=config.INFER_BATCH_SIZE)
+
     with utils.Timer() as timer:
-        outputs = tagger(data[config.TEXT_COL].tolist(),
+        outputs = tagger(texts,
                          candidate_labels=list(DESCRIPTION_TO_QUEUE),
                          hypothesis_template=config.P2_HYPOTHESIS,
                          batch_size=config.INFER_BATCH_SIZE)

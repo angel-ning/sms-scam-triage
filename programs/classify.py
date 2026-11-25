@@ -34,6 +34,12 @@ def evaluate_classifier(model_id: str, label_map: dict[str, str], test: pd.DataF
     clf, used_device = load_classifier(model_id, device)
     texts = test[config.TEXT_COL].tolist()
 
+    # Untimed warm-up on one full batch: the first batch on a GPU pays one-off
+    # start-up costs (kernel loading, memory allocation). Without this, the
+    # first model in the loop looks slower than it really is.
+    clf(texts[:config.INFER_BATCH_SIZE], batch_size=config.INFER_BATCH_SIZE,
+        truncation=True, max_length=config.MAX_TOKENS)
+
     with utils.Timer() as timer:
         outputs = clf(texts, batch_size=config.INFER_BATCH_SIZE,
                       truncation=True, max_length=config.MAX_TOKENS)

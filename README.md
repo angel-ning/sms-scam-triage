@@ -93,6 +93,19 @@ Commit and push `results/` afterwards so the report uses the numbers from this r
 
 On macOS use `source .venv/bin/activate` and a plain `pip install torch`.
 
+## Where the reported numbers come from
+
+* **Fine-tuning** ran on an NVIDIA RTX 5070 (`results/finetune_log.json`, `results/full_run_log.txt`).
+* **All evaluation and runtime comparisons** (`p1_*`, `p2_*` result files) were re-run on one
+  machine, an Apple M1 Pro (MPS), so runtimes in every table are comparable
+  (`results/mac_eval_log.txt`). The cloud app runs on CPU, so these laptop
+  figures are closer to deployment speed than GPU figures.
+* Accuracy figures match the GPU run exactly for Pipeline 1; for Pipeline 2 one of 737
+  messages flipped (0.8168 → 0.8182), a floating-point difference between GPUs.
+* `predict_finetuned.py` uses the local `models/finetuned-scam-classifier/` if present,
+  otherwise downloads the identical published model `Angel426/att-sms-scam-classifier`,
+  so it can be re-run without re-training.
+
 ## Reproducibility
 
 * All randomness is seeded (`config.SEED = 42`); test-set sampling uses the same seed.
