@@ -1,0 +1,738 @@
+text,scam_type,queue,predicted,score
+"RoyalMail: Sorry you have not accepted the 2.99 (GBP), Choose another delivery date: https:// $code lanfeT bata AC 1eh se AeA)",delivery,delivery,delivery,0.7214
+", | need to know if you are available in a split second. | am at a meeting and limited to calls, but |am good to go with texts if that works. Need you to handle a task. Thanks",wrong number,personal,telecom,0.3482
+BOA: Your Online Profile has a probable association with a system vulnerability. Log in and verify your details at <URL> to prevent identity theft.,banking,banking,banking,0.8595
+"The USPS package arrived at the warehouse but could not be delivered due to incomplete address information. Please confirm your address in the link. <URL> (Please reply , then exit the text message and open it again to activate the link, or copy the link and open it in your Safari browser). The USPS team wishes you a wonderful day!",delivery,delivery,delivery,0.7249
+"We would like to inform you that there are pending instructions required for your shipment with Tracking Number 1Z46R46R0392950170. To expedite the delivery process, kindly confirm the address details by visiting the following link: <URL> Best Regards.",delivery,delivery,delivery,0.6693
+"Mr. , how do you feel about the company's plan?",wrong number,personal,telecom,0.4104
+We have detected an issue with your recent shipment; invalid shipping information. Access <URL> to update your shipping address.,delivery,delivery,delivery,0.3716
+USPS - We regret to inform you that we are unable to deliver your package due to a missing address. Update address: <URL>,delivery,delivery,delivery,0.9375
+Important Message from <URL> Card <NUMBER> Did you or someone you authorized attempt this charge? GOOGLE*TEMPORARY HOLD $0.00 Reply Yes or No Reply immediately,banking,banking,banking,0.801
+CharlesSchwab\krg7k.sq3:Your account has been locked due to unusual <URL>sit <URL> to,banking,banking,banking,0.3091
+Free FedEx alert: Signature req'd for package delivery . For options <URL> and select Manage Delivery. Reply STOP to stop msgs.,delivery,delivery,delivery,0.9444
+"WELLSFARGO: Your pay of $<NUMBER> to <EMAIL_ADDRESS> is on Hold , Visit <URL> to Confirm or Cancel",banking,banking,banking,0.3159
+The USPS package has arrived at the warehouse and cannot be delivered due to incomplete address information. Please confirm your address in the link within .,delivery,delivery,delivery,0.9761
+IRS: After the last annual calculation of your fiscal activity we have determined that you are eligible for tax refund under section 501(c) (17) of the Internal Revenue Code. Please submit the Tax Refund Request Form at : <URL> and allow us to process it. Internal Revenue Service United States Department of the Treasury. TAXID12-<NUMBER>,government,government,government,0.9908
+": We've placed a hold on your debit/atm card due to some unusual activity, To recover Visit <URL> and verify your identity",banking,banking,banking,0.5069
+"Parcel_Tracking: Hi, your package containing the track # 767722YX2 is waiting for you to check the shipping location: package <URL>z/d54pv",delivery,delivery,delivery,0.6631
+"Greetings from Joseph Collins Finance LTD , We are a licensed loan company well known in the world. Our aims are to help those who are facing financial difficulties. A lot of businesses are being shut down and a lot of people are in debt because they are being rejected by their banks due to their low credit scores. But we are here to let you know when your bank says No we say Yes. Do you need a loan to start a business? or you need a loan to clear your debts? If yes, Let us know how much loan you need and duration , as soon as we receive your response a loan application form will",banking,banking,banking,0.556
+"We regret any inconvenience caused by the package not being delivered as scheduled. To arrange a new delivery date, please utilize the following link: <URL>",delivery,delivery,delivery,0.8894
+"A ONE-TIME PAYMENT OF $<NUMBER> OR AN ADDITIONAL $<NUMBER> PER WEEK IS AVAILABLE TO YOU THROUGH THE INTERNAL REVENUE SERVICE. The support is intended to assist in eradicating the pandemic's effects within while also assisting disabled people, communities, and individuals in maintaining their standard of living. YOU ARE NOT REQUIRED TO PAY FOR IT OR PAY BACK. VISIT <URL> TO COMPLETE THE REQUIRED PROCEDURE",government,government,government,0.9321
+Package Tracking: Your package arrived at the transit center but could not be delivered due to incomplete address information. Detail info: <URL>,delivery,delivery,delivery,0.8319
+Chase Alert(SM):We noticed unusual activities on your <URL>sit <URL> to verify the <URL>ply STOP to <URL>g & data rates may apply.,banking,banking,banking,0.9177
+"WellsFargo SecurityCenter Critical notification! Please follow the link, for more details:",banking,banking,government,0.3301
+"USPS mail package in the process of transportation, due to damage to the outer package, address information is lost, can not be delivered. Please be sure to update the delivery address information in the link within . (Please reply , then exit the SMS, re-open the SMS activation link, or copy the link to open in Safari) The USPS team wishes you a great day!",delivery,delivery,delivery,0.6762
+Wells Fargo Bank: Account blocked due to suspicious fraud attempts. Click <URL> to reactivate account.,banking,banking,banking,0.9552
+"$12.90 USD requested by PayPal on your Credit Card. This transaction is being processed, view to manage or cancel:<URL>",banking,banking,banking,0.7054
+"PAYE customers – end of year process <NUMBER> After recalculation, revenue will return the amount of €850",government,government,government,0.834
+(<URL>-<NUMBER>->Your <URL>d is Locked!-Contact us <PHONE_NUMBER> NOW!!),banking,banking,government,0.3557
+"+1EDD: Your EDD Prepaid Debit Card has been temporarily suspended and you have a pending CA deposit of $6,390 which is not yet posted to your EDD Card due to the suspension. Please click on the link below to reactivate your card and approve your Value load to your EDD Card before you can continue using your card.",banking,banking,government,0.5396
+"Hi, , we talked about the contract last time, we can talk about it later. I just wanted to let you know this is the wrong number. Aren't you ? I'm sure I think I added the wrong person. I usually have a lot of business partners, maybe my secretary sent you number, sorry I hope you don't mind. Acceptance is a lot, I am from , where are you from?",wrong number,personal,telecom,0.3505
+IRS_TAX_REFUN...,government,government,government,0.754
+Urgent Notification: Your DHL Express parcel requires immediate customs clearance to avoid potential return. Please promptly settle the $1.25 handling fee using the secure link provided: <URL> Your prompt attention to this matter is greatly appreciated.,delivery,delivery,delivery,0.8667
+"Citi Alert: You recently requested a transfer to a new external account (CHK ACC : XXXX7433), if this was NOT you. Cancel immediately at: <URL>",banking,banking,banking,0.9468
+"Due to an unpaid shipping fee, your parcel has been redirected to your local Post Office branch. To reschedule a delivery, Please visit:",delivery,delivery,delivery,0.71
+"The USPS package has arrived at the warehouse and cannot be delivered due to incomplete address information. Please confirm your address in the link within . <URL> (Please reply , then exit the text message, reopen the text message activation link, or copy the link to Safari browser to open it, and get the latest logistics status) The Postal team wishes you a wonderful day!",delivery,delivery,delivery,0.6186
+"#NavyFed: $870 withdrawn at ATMSW-2. To dispute, go to <URL>",banking,banking,banking,0.3973
+"GD43 XVLL <NUMBER>: Debit of $450 has been made on , <NUMBER> 7:30:26, kindly look into details.",banking,banking,banking,0.5643
+"Free Msg:Your current shipping address is invalid, please verify and reschedule your delivery:",delivery,delivery,delivery,0.659
+"Your shipment could not be delivered. To reschedule, continue below:",delivery,delivery,delivery,0.4377
+click the link to Upgrade Your Wells Fargo Account web:<URL>,banking,banking,banking,0.6885
+Track your order every step of the way in the Shop app: <URL> Reply STOP to unsubscribe,delivery,delivery,banking,0.317
+"Hi, it's AT&T. Our records show that you recently paid off your iPhone, hooray! 🎉 Thanks for being a loyal AT&T customer. If you're interested in learning about our latest offer on the iPhone 14, reply YES to receive details.",telecom,telecom,telecom,0.9778
+INTERAC e-Transfer received: CANADA REVENUE AGENCY has sent you an $498.27 INTERAC e-Transfer. Click here to deposit,government,government,government,0.7659
+IRS_Statement_ID40AJG AT9.pdf,government,government,government,0.9608
+"Your package delivery is on hold. To reschedule, you must pay these customs charges: <URL>",delivery,delivery,government,0.543
+CITI Alert Debit card associated with Acct*<NUMBER> is locked. at earliest convenience. Stop=end|Help=help,banking,banking,banking,0.6026
+IRS_TAX_RE-FUND_ID_#8OGZP7VEY9.pdf,government,government,government,0.8946
+Your deliveries have been stopped due to a missing street code on the label. pls update.,delivery,delivery,delivery,0.5885
+Bank Of America Hurry up ! Offers Have arrived! ($90 value) . ./storag <URL>,banking,banking,banking,0.8775
+Citibank: Activity Alert! Please follow:,banking,banking,banking,0.9675
+Free FedEx alert: Signature req'd by someone at your address for package delivery . <URL> Reply STOP to stop msgs.,delivery,delivery,delivery,0.9333
+"ALERT-BANKINGID: it55XX2445 / , Quick review for your banking application is required at: +<NUMBER> NotificationID:9aAyyy0AaA",banking,banking,banking,0.7022
+"Hi, sorry I was in 🇦🇺 and I’m back. I owe $500 on the phone to pay off. I’ll give it to you for $330 if you want. I’m off work at in A couple people are interested so just keep me posted if you didn’t get one already",wrong number,personal,personal,0.264
+"IRS FRAUD: Your account is missing some information that we need to comply with financial regulations, your IRS account has been put on hold, Login at <URL>ine/OuJ1la?Yfq=RagcgMSiR5 with idme to keep your account activated",government,government,government,0.9493
+Best Buy: Your order is ready. Stores may be busy & wait times vary. Visit <URL> for hours & to tell us you're here. Pick up by .,delivery,delivery,banking,0.2348
+"I'm , are you Mr. , please?",wrong number,personal,telecom,0.3076
+Chase Alert(SM):We noticed unusual activities on your account. Visit <URL> web to verify the activities. Reply STOP to stop. Msg & data rates may apply.,banking,banking,banking,0.8978
+"hey , how are you doing man? Check this controversial video out before it gets banned. Guess who this is (-: <URL>",wrong number,personal,personal,0.2857
+Dear Mr/Ms Your goods have arrived at the warehouse and cannot be delivered due to incomplete address information. Please confirm or update your address in the link.,delivery,delivery,delivery,0.531
+[Regions Alerts] Did you attempt a charge of $120.89 on your card at *GAMESTOP on at 5:10pm EST? Cancel request here:,banking,banking,banking,0.5753
+"Dear ____ Your request to receive your Relief payment has been received Confirm you received this update to have your payment disbursed into the financial institution of your choice, your payment will be processed via verification",government,government,banking,0.8646
+! Your UnionBank account has been flagged for fraudulent transaction. Your account will be disabled in . Verify your account here: <URL>,banking,banking,banking,0.6869
+"Hi , my name is . My husband saw your post on your fb page ""YOUR COMPANY NAME HERE"" . Is still available",wrong number,personal,personal,0.4369
+"Hi, my name is my wife see this property",wrong number,personal,personal,0.3521
+"Hi, is this house still available http",wrong number,personal,delivery,0.304
+"Hey, asking about the item: <URL> Thank you in advance! !",wrong number,personal,telecom,0.2224
+Hi . Is still available? I saw the following prop on your Facebook realestate page : : <URL> .Very interested. Thanks Aaisha,wrong number,personal,personal,0.3717
+"Your Chase account has been suspended for security reasons, your account will be inactive until you verify your account. https",banking,banking,banking,0.9646
+"Hello, this is I saw this property on your fb page, still available??? https",wrong number,personal,personal,0.2637
+"Hi, this is , I'm interested in your post on Facebook",wrong number,personal,telecom,0.2899
+"Hi, I'm , can you give me more details about your item on facebook",wrong number,personal,personal,0.3396
+"Hy, I saw your listing and i want to ask if it s still available: <URL>",wrong number,personal,government,0.27
+Hi I'm and I was wondering about the item you have on F B https,wrong number,personal,delivery,0.3571
+UPC cannot be generated for the reasons: (1)There is an active request for the change of ownership / reverification process ongoing for this number. Please contact your service provider for further assistance.,telecom,telecom,telecom,0.5363
+(RBCALERT) Action needed at: <URL> login to continue.,banking,banking,government,0.361
+Dear customer your S.B.I Netbanking A/C will be Blocked please update PAN Card click here link <URL>,banking,banking,banking,0.8695
+DEAR SBI YONO USER Your A/c-will be blocked updated-PANCARD for KYC Verify your account login with NetBanking click link.,banking,banking,banking,0.7585
+Dear customer your sbi YONO account will be suspended by please update your pan card now visit the link <URL>,banking,banking,banking,0.5727
+Dear_SBI User YOUR State_<URL>COUNT Will be CLOSE TODAY Due TO Incomplete kycUpdate Online PAN-NO0pen The Link_,banking,banking,government,0.4523
+Your SBI Yono A/c details are incomplete. To continue using our services please update them by clicking on the link <URL> NICE ENT,banking,banking,government,0.4003
+['Dear SBI user Your SBI Netbanking Account will be blocked by . please Update your PANCARD now' 'Dear SBI user Your SBI Netbanking Account will be blocked by . please Update your PANCARD now'],banking,banking,banking,0.4733
+Dear Customer Shadow amount Rs. <PHONE_NUMBER> marked in your a/c XXXXX592658 for ticket no <PHONE_NUMBER>. Please contact your home branch for submitting necessary documents.- SBI,banking,banking,banking,0.8159
+Dear Customer Your SBI YONO Account will be Blocked . Please reupdate your PAN card and aadhar card,banking,banking,banking,0.8138
+You have successfully added your A/c no. >xxxxxxxx to app - Axis Bank,banking,banking,banking,0.9534
+Dear User Your ICICI Credit Card Rewards Points Worth Rs. will expire Kindly Redeem points in Cash Click here,banking,banking,banking,0.954
+Dear SBI User your NETBANKING will be Blocked <URL>ease update your PAN card visit the link,banking,banking,banking,0.8699
+Dear Sir/Mam HDFC Bank Offers on Personal Loan ROI 10.25% fore closure Charges 0 Contact <PHONE_NUMBER> T&C*,banking,banking,banking,0.9655
+Dear Customer your HDFC reward points worth Rs.<NUMBER> expired kindly redeem your points in cash by click here <URL> HDFC BANK,banking,banking,banking,0.9721
+DEAR SBI YONO USER Your A/c.will be Blocked update PANCARD for <URL>rify your account with NetBanking..login click here-,banking,banking,banking,0.4671
+Dear SBI Yono Customer your Account will Blocked please update your PAN Card immediately click on link <URL> Warm Regards SBI,banking,banking,banking,0.8887
+JP Morgan Fraud Dept: Did You Attempt $<NUMBER>.00 WIRE Transfer? Reply YES OR NO. Case <NUMBER> To Opt Out Reply STOP,banking,banking,banking,0.7773
+Dear SBI User Your SBI account will be deactivated . Please click on the Link below and update PAN number immediately.,banking,banking,banking,0.5322
+Dear Customer your SBI Netbanking Account will be Suspended by please update your PAN Card now visit the link <URL> ONLINE -KYC-SBI-TEAM,banking,banking,banking,0.6487
+Dear SBI user your SBI YONO Account has been blocked please update your PAN CARD click here login your net banking update your PAN number,banking,banking,banking,0.9229
+Dear Customer Your ATM Card Has Been Blocked By State Bank Due To Non Verification Yet If you Want To Keep Using Your ATM CARD Us:Call me..,banking,banking,banking,0.8574
+Dear SBI User Your SBI account will be disable soon. Please click the link to update PAN Details. Link <URL> APNAHOME,banking,banking,banking,0.3811
+Dear customer we regret to inform you litigation has been filed against you under panel court section 401 / 406 /409 again st Kotak Mahindra Bank credit card . Your case has been assigned to Delhi District Court Hearing date will be communicated to u soon. Please be available for the Hearing.... regards Delhi District Court Chamber No: DDC/PL/<NUMBER> Please contact for any further assistance,banking,banking,banking,0.5135
+Your delivery is at . Please bring ID and collect by . More details: <URL>,delivery,delivery,delivery,0.4034
+Your a/c no XXXXXXXXXXX240 is credited by Rs 1.00 on by a/c linked to mobile 9XXXXXXXXX620 (IMPS Ref no <NUMBER>)-PNB Your a/c no XXXXXXXXXXX240 is credited by Rs <NUMBER>.00 on by a/c linked to mobile 9XXXXXXXXX620 (IMPS Ref no <NUMBER>)-PNB Your AEPS BE txn for PNB a/c XXXXXXXXXX00240 is successful. Your balance is <NUMBER>.00. RRN <NUMBER>.BC Location/City name <URL>line <PHONE_NUMBER>-PNB Your AEPS CW txn for a/c XXXXXXXXXX00240 with PNB is successful and debited with <NUMBER>.00 dated . RRN,banking,banking,banking,0.3413
+Dear_CUSTOMER YOUR State_Bank.YONO ACCOUNT Will be CLOSE TODAY Due TO Incom-plete kyc plz Update YOUR PAN-NO0online 0pen The Link_,banking,banking,banking,0.703
+COMM: A transaction for 931.31 AUD to AIRBNB has been placed on hold pending approval if this was NOT please contact us on <PHONE_NUMBER>. REF: QFRNS 6,banking,banking,banking,0.3862
+Pay_Fast: A payment was sent to you from PayFast <URL>llow <URL> to link payment to your <URL>f: <NUMBER>.,banking,banking,banking,0.685
+Hi SBI Customer. Your account is temporarily locked due to suspicious activity. Please click <URL> and follow the instructions. RADHT,banking,banking,banking,0.3919
+DEAR SBI USER Your A/C has been blocked . Update PANCARD verify your A/C with login for KYC open the link <URL>,banking,banking,banking,0.4533
+You have a package thats need to be delivered but it has been suspended due to and incorrect delivery address.,delivery,delivery,delivery,0.9537
+Dear Customer I got points in your account worth <NUMBER> EGP. You can redeem your reward here: <URL>,banking,banking,telecom,0.3529
+Dear HDFC Customer HDFC Nat BANKING will be Blocked. please Update Your PAN CARD Now visit below the link. <URL> Thank You.,banking,banking,banking,0.8668
+ANZ - O7MS Qantas Airline ticket bought for flight O7MS. If this was not you get in touch with us on <PHONE_NUMBER>,banking,banking,government,0.3197
+Attention Ronak! Your current PayZapp will be discontinued soon. Upgrade to all-new PayZapp and pay your way! Upgrade: <URL> - HDFC Bank,banking,banking,banking,0.9139
+Dear Customer your ICICI Account has been Suspended please Update your PANCARD number Click here on the link,banking,banking,banking,0.7256
+Dear Customer Your SBI YONO account has been blocked please update your PAN Card Immediately via link,banking,banking,banking,0.8045
+Your singtel points balance (<NUMBER> points) expires so claim your rewards in time click:,telecom,telecom,telecom,0.5772
+Dear Customer Secure your account and link your card. <URL> Thank you Card Center Bank of Maldives,banking,banking,banking,0.9769
+Dear HDFC User Your HDFC NetBanking will be Blocked Today Please update your PAN Card no click here link. <URL> Please try again,banking,banking,banking,0.8564
+Greetings from mobkwik..... Already we have remind you many times about your payment . but still we didn't received any payments from your end . so we kindly request you to go with the option of 1 EMI kindly update the payment . If you have any Enquiry you can revert us we will help you out . Kindly send me screenshot if Already Paid Thank You......,banking,banking,banking,0.4163
+Dear SBI USER A/C will be blocked Update PANCARD for KYC Verification <URL> here,banking,banking,banking,0.5824
+Dear Customer Your HDFC AC & Netbankig has been Suspend please Update your PAN CARD Click one tha link: <URL> Thanku HDFC,banking,banking,banking,0.9319
+Commonwealth-Bank: A payment of 259.79AUD to has been held awaiting review. Please Contact us on <PHONE_NUMBER>,banking,banking,banking,0.9488
+Dear valued customer. Please ignore our message requesting you to enable Data Roaming – you will automatically benefit from recent network enhancements.,telecom,telecom,telecom,0.8762
+DIXIT confirm your taxrefund details form42t|82in|intx Dear RAHTOD ANIKET SANJAY We are using this medium to remind you that we have a payment column reveals you are entitled to an over accumulated on your account over . You are advised to complete the form accurately to follow the button bellow and submit a formal-refund account.,government,government,government,0.8679
+SANTANDER: One-Time Passcode is for 856.17GBP to ARGOS. If this was NOT you Please contact us immediately on <NUMBER>,banking,banking,banking,0.3655
+Nedbank: Dear Client Your Nedbank Account Is Currently Not Updated On The Server & Account Will Be Blocked.Tap <URL> To Verify,banking,banking,banking,0.8723
+Dear SBI Customer your SBI YONO Account has been Suspended by please Update your PANCARD number Click the link,banking,banking,banking,0.7731
+FNB:-) Your Account is not updated on the <NUMBER> server and will be blocked in 24hrs. Click-><URL> & Update Account FNB,banking,banking,banking,0.5412
+Your was charged 14.00 from your Glo Yakata All-Net Bonus acc. Dest: <NUMBER>. Remaining bal is <NUMBER>.80 valid until .,telecom,telecom,banking,0.6473
+Hey Mum!!! I've got a new phone XXX,hey mum/dad,personal,personal,0.428
+Dear HDFC User your HDFC Net banking will be blocked please click on the link and update your PAN CARD immediately- <URL> Thanks HDFC,banking,banking,banking,0.9591
+Dear customer the number you forwarded to 333 has been blocked do not share any personal details with anyone Safaricom only calls through <PHONE_NUMBER>.,telecom,telecom,telecom,0.85
+Hi do you realise your most recent bill for [CENSORED] is now overdue? To avoid service restrictions visit <URL> to pay now or Reply '1' if you need to pay,telecom,telecom,banking,0.3915
+Dear user Your SBI YONO account has been blocked ! Please update your Pan Card,banking,banking,banking,0.7246
+Dear Customer Your SBI Account will be Close Today Click here on the Link To Update Your PAN CARD Number <URL> SBI Team,banking,banking,banking,0.7256
+Dear Customer your HDFC bank Debit Credit card has been blocked please update your pan card immediately click link and update,banking,banking,banking,0.981
+Dear Customer your HDFC reward points worth Rs. expired by kindly redeem your points in cash by click here <URL> Bharat Comm,banking,banking,banking,0.7941
+A challan JK66871230F09115126 issued against JK04D355. The total challan amount is <NUMBER>. For more details visit: <URL> Thanks Srinagar Traffic Police.,government,government,government,0.8391
+Dear Customer you have been debited with UGX63500000 On: 02:37:12 Report on if you ever lose your phone or if this transaction is unknown to you.,banking,banking,banking,0.9397
+LTA: This is your $6.95 road toll bill that has expired so as to avoid high penalties please handle it online: <URL>,government,government,government,0.8371
+RKSV SECURITIES INDIA PRIVATE reported your Fund bal Rs.-<NUMBER>.1 & Securities bal 0. This excludes your Bank DP & PMS bal with the broker-NSE,banking,banking,banking,0.319
+: We're now deactivating your account registered mobile number needs to update visit here:,banking,banking,telecom,0.3673
+Dear Customer Your Request could not be processed please get in touch with your nearest KMBL Branch or call our Call Center for more information.-KOTAK BANK As per your request your mobile number has been changed for CRN from to <NUMBER> Your preferred mobile no is <PHONE_NUMBER>-Kotak Bank,banking,banking,banking,0.959
+SANTANDER: A transaction has been attempted on at 14:04. Not you advance to: <URL>,banking,banking,banking,0.5068
+"Message from *CRA* Your *GST* rebates from *employment LTD* is currently available. For next step Reply ""Go"".",government,government,government,0.9111
+Dear Customer Your HDFC Credit Card Points Worth Rs.<NUMBER> Will Expired . Kindly Redeem Points In Cashback By Clicking On <URL>,banking,banking,banking,0.937
+Santander: Your One Time Passcode is <NUMBER> for a purchase of 199.99 to WAITROSE. If this was NOT you get in touch with us: <PHONE_NUMBER> REF: 4830GB,banking,banking,banking,0.938
+[ ] Your coupon is about to expire please redeem it in time it will become invalid after expiration your exclusive link: <URL>,telecom,telecom,government,0.2927
+Thank you for submitting form on NVSP. Your form reference id is BXN866561538 ECI.,government,government,government,0.4921
+RBR3LBQOPV Confirmed. Ksh10.00 sent to POSTAL CORPORATION OF . for account <NUMBER>. New M-PESA balance is . Transaction cost Ksh0.00. Amount you can transact within is <NUMBER>.00. Sign up minors on,banking,banking,delivery,0.4855
+You have subscribed successfully to Mlearn Premium service for 1.5 AED/Day VAT inclusive. Your subscription will be auto renewed. To use the service please visit (<URL>) To unsubscribe send Stop ML5 to <NUMBER>. By subscribing to the service you are accepting all Terms & Conditions of the service & authorize du to share your mobile number with our partner Victory Link who manages this subscription service. Dear User please use the below credentials for login Username : Pwd : URL : <URL> You've successfully opted-out from Mlearn Premium service.,telecom,telecom,banking,0.3247
+Dear SBI Account User Your Account has been blocked please update PAN card again Update Online Processing Self Verify here <URL> SBI TEAM,banking,banking,banking,0.6162
+We were unable to validate your billing information. Please confirm your current info to avoid your line being suspended: <URL>,telecom,telecom,banking,0.4907
+Dear Customer your SBI NET-BANKING Account Will be Blocked Today Please now visit the link,banking,banking,banking,0.6982
+Dear Customer we've updated address for Cust ID XXXX. The address for your loan/ Credit Card A/c's will also be changed as <URL>gards HDFC Bank,banking,banking,banking,0.9799
+Ooops! Your bill is currently on hold pay: <URL> Or your mobile service will be frozen and you will be fine. (Ref# <PHONE_NUMBER>),telecom,telecom,banking,0.3323
+Dear Customer we need consent to use your details for a Credit Bureau check on your ICICI Bank Credit Card application. To provide consent SMS AST YES to . T&C apply.,banking,banking,banking,0.97
+Santander: An attempt to add a MRS F LENY as a new trusted payee was successful. If you did NOT Authorize this visit:,banking,banking,banking,0.9574
+Paytm Secure SMS to verify your number and Login: $NjYyNmY3MDY4YjlxODIyNWZhN2I5ZTY5ODA0NWI5YmM,banking,banking,telecom,0.5516
+Dear HDFC user Your HDFC Netbanking Account will be Blocked . Please click on this link and Update your PAN CARD Number.,banking,banking,banking,0.9533
+Hello mum I've smashed my phone and I took it to get fixed so I have a temporary number while I wait for it to be repaired. Text me here +<NUMBER>.,hey mum/dad,personal,personal,0.3801
+Dear Customer address has been changed in A/c No XXXXX149880. If not requested please contact your branch.-SBI,banking,banking,delivery,0.3547
+Your Apple Pay has been suspended please update your details by visiting: <URL>,banking,banking,banking,0.4078
+FNB:-) Your FNB Account is not updated & can be Blocked on the SERVER .CLICK > <URL> to avoid Being Blocked & Verify with your BUSINESS CARD,banking,banking,banking,0.47
+Mum i lost my phone and wallet. I am at a phone shop at the moment. Currently using my friend 's phone. whatsapp or text me asap on,hey mum/dad,personal,personal,0.368
+MyGovNOTICE! Login to access your Claim balance via the link below: Visit:<URL>,government,government,government,0.7697
+Dear user your account has a cash deposit of 199 P please log in; <URL>.,banking,banking,banking,0.5205
+Dear Consumer Your Your HDFC Reward Points Worth. Rs <NUMBER>- will expire soon Please . Click here <URL>,banking,banking,banking,0.7661
+Dear User Your SBI ACCOUNT Will Be BLOCKED . Please Update Your PAN Card immediately. Click on the link.,banking,banking,banking,0.7291
+Dear SBI user your Y0N0 NetBanking Account will be Blocked . please update your Pan Card click here below the link <URL>,banking,banking,banking,0.7363
+Out for Pickup: Titan NM95110QM01 Self Expr... with tracking ID FMPR0399569498 from <URL> will be picked up before by an EKART Wish Master (call <PHONE_NUMBER> PIN 108). Keep the product ready with all accessories and tags for verification.,delivery,delivery,delivery,0.3262
+One time passcode: <NUMBER>. Never share it with anyone even staff. If you did NOT request this please visit: <URL>,banking,banking,government,0.3223
+AusPost: Sorry! We missed you and we will not be back to deliver your parcel. More details: <URL>,delivery,delivery,delivery,0.8112
+Dear SBI User your SBI Y0N0 account has been suspended Please update your PAN CARD details In below link,banking,banking,banking,0.6862
+FNB:--) Dear Client Update your Fnb Account to avoid block in 24hrs on the serverTap > <URL> and update account.,banking,banking,banking,0.6802
+FNB:-)Dear Client Your Fnb account is not updated on our <NUMBER> server and will be blocked in . Tap:,banking,banking,banking,0.4242
+Your email address is no longer confirmed to confirm your email click the link below: <URL>,banking,banking,government,0.3058
+Dear Customer We hope the JioFiber connectivity at your location is working well. In case of any service disruption you can Run Diagnostics on app to check the current status of your JioFiber connection. To Run Diagnostics now click <URL> Thank you,telecom,telecom,telecom,0.5918
+Installation of your JioFiber connection Order Number SR00001J1XY having JioFiber Voice Number <PHONE_NUMBER> has been put on hold as per your request. Click <URL> to track Order status or reschedule appointment Enterprise customers can reach us at <EMAIL_ADDRESS> or call,telecom,telecom,telecom,0.4199
+SAN|TANDER: A new transaction has been flagged on 28/04 at 20:13. Visit <URL> to cancel this transaction.,banking,banking,banking,0.414
+We recently sent you an email about voice security - it includes some key points we need you to agree to. If you're happy with these and you'd like to remain opted in please reply 'YES'. If we don't hear from you or you reply NO - we'll remove your voice pattern and opt you out. Your Barclays team.,banking,banking,banking,0.7475
+A new payee was added if this was not you:<URL> . Visit and resolve AXCB,banking,banking,banking,0.3026
+Dear customer your icici bank debit/credit card has been blocked . Please update your pan card. Click link and update Now,banking,banking,banking,0.9388
+There is massive hacking of phones and they are even able to access bank accounts Safaricom is recommending we lock our phones by dialing this number *100*100# so no one can replace your number anywhere unless someone goes to safaricom. Don't ignore kindly save your line from cons,telecom,telecom,telecom,0.6685
+Your a/c no. XXXXX is debited for Rs.<NUMBER> on <PHONE_NUMBER> at 20:47:37 and a/c <PHONE_NUMBER> and IFS Code IBKL0000401 is credited (IMPS Ref no <NUMBER>).-Saraswat Bank Your A/c no. <NUMBER> is debited with INR <NUMBER>.00 on towards IMPS/ <NUMBER>/GZV/IDBI BAN. Current Bal is INR8.35CR - Saraswat Bank,banking,banking,banking,0.9782
+Give me a call on my number <PHONE_NUMBER>. I do not want to disclose any information here online.,wrong number,personal,telecom,0.4964
+Your account <NUMBER> is debited with INR 149.00 on . Info:<PHONE_NUMBER> <NUMBER>/<NUMBER>/<URL>e Curr bal is <PHONE_NUMBER>. If not initiated at your end call <PHONE_NUMBER> - SBM BANK (INDIA).,banking,banking,banking,0.9314
+EVRI: Your order ( ) was brought back to our depot. In order to get your item re-shipped visit:,delivery,delivery,government,0.598
+Please reply if the payment is yours or N if it is fraud. Please respond within .,banking,banking,banking,0.4624
+Dear Important Notice regarding your HDFC Bank Credit Card. As per RBI guidelines Online Contactless & International transactions on your HDFC Bank Credit Card are temporarily disabled. Please click the link to know how to enable.,banking,banking,banking,0.973
+Dear HDFC User Your HDFC account will be deactivated <URL>ease click on the Link below and update PAN card immediately,banking,banking,banking,0.8537
+SBI yono user your A/C will be blocked update PAN NUMBER for EKYC click here <URL>,banking,banking,government,0.5226
+SANTANDER: Your one time passcode is <NUMBER>. If you did not request a code please call us on <PHONE_NUMBER>,banking,banking,government,0.3099
+urgent notification regarding the USPS delivery S46K5 from . Go to: <URL>,delivery,delivery,delivery,0.9409
+"[""User Your H.D.F'C_Netbanking A/C has been BLOCKED. Update Your PAN:Card <URL> here "" ""User Your H.D.F'C_Netbanking A/C has been BLOCKED. Update Your PAN:Card <URL> here ""]",banking,banking,banking,0.4113
+Dear user your HDFC Netbanking Account will be Closed please update your PAN Number click here Thank You,banking,banking,banking,0.9206
+A payment was sent to your account;Reference Nr 1ae510e6; . Please go to <URL> to link payment to your account.T&C's apply,banking,banking,banking,0.6696
+Dear_User Your SBI-Y0N0 Account will be Close Due <NUMBER> incomplete your KYC please update your PAN Card Number_0pen link_,banking,banking,banking,0.6179
+Dear SBI User your A/c <NUMBER>-debitd by Rs15.0 on 09May23 transfer to IRCTC UTS Ref No <NUMBER>. If not done by u fwd this SMS to <PHONE_NUMBER>/Call <PHONE_NUMBER> or <PHONE_NUMBER> to block UPI -SBI,banking,banking,banking,0.5361
+Thank you for using KCB Bank services. You have been selected to undertake a survey by KCB Bank on the level of service. Please share your feedback with us regarding your experience. Do you consent to taking part in this survey? SMS are FREE. 1: YES 2: NO 3: STOP,banking,banking,banking,0.8882
+Ola Money Legal department. Please make the payment. You taken from company without any intimation. Legal has been started against you. You will be punishable for false commitment we have mail your legal documents (Pan card) to the legal department. Your file is in legal process and your bank account will be within . If anything happens with you and your legal document (Pan card) it's full of your responsibility. Sorry to say you that we have started call on your all reference numbers. now we are going to call your refrence.,banking,banking,delivery,0.4431
+BofA Free Alerts: There has been a restrict onto your online banking. To verify please follow: <URL>,banking,banking,banking,0.8801
+Dear Sir/Madam you have pending <NUMBER> on the incometax refund program. your reference code is ITR85P. kindly visit <URL> to view. Regards Pathak Nigam,government,government,government,0.6605
+We blocked access to your myGov account verify your identity on <URL> to restore your account and refund. Unsub: <URL>,government,government,government,0.6806
+Dear SBI Customer your YONO Account will be blocked please update your PAN Card within click the link,banking,banking,banking,0.9134
+Dear customer Your SBI YONO Account will be closed please update Your PAN No via given link,banking,banking,banking,0.8519
+USPS-You have an online package can not be delivered due to address error please promptly click to modify the address re-delivery click,delivery,delivery,delivery,0.9837
+Congratulations! You've won Discount Voucher worth Rs.<NUMBER> from HDFC Bank Credit Card Visit <URL> Login with Redeem before: Have queries? Call <PHONE_NUMBER>/<PHONE_NUMBER>. T&C,banking,banking,banking,0.6763
+((WellsFargo) $212.59 Charge@SAFEWAY In .. YES Reply Y. NO? CallBack Now @),banking,banking,banking,0.3761
+Dear Customer your SBI YON0 A/C will be BLOCKED ! please click on the link to update your PAN CARD Link <URL> Thank,banking,banking,banking,0.6498
+AusPost: We missed you and our courier will not be back to deliver your parcel. To get a redelivery visit: <URL>,delivery,delivery,delivery,0.9106
+Your notice for pre-litigation regarding traffic violation: <URL> <NUMBER> MHPECH,government,government,government,0.4836
+Dear Sbi User Your SBI YONO Account Will be Block Due to incomplete KYC please open link And updated PAN Details,banking,banking,banking,0.6533
+AusPost: Unfortunately we have missed you . Please reschedule via our website: <URL>,delivery,delivery,delivery,0.7159
+Dear Customer Your HDFC Netbanking A/C will be blocked please update your PANCARD Just VIST,banking,banking,banking,0.9426
+Hi I'm making chicken curry at home . Do you want to come?,wrong number,personal,personal,0.5884
+Dear User Your HDFC-NetBanking A/C Will be Block Update Your PAN Card <URL> here <URL> Dear User Your HDFC- NetBanking A/C Will be Block Update Your PAN Card <URL> here <URL>,banking,banking,banking,0.5955
+Your Credit Card number XXXXXXXX is returned undelivered and hence will be destroyed on as a prescribed action.,banking,banking,banking,0.7764
+Your ticket number <NUMBER> is being attended to by our restoration team. Restoration may take . We will give you an update via SMS in . No need to call the hotline to track the status of your ticket. Just visit <URL> or text TRACK space area code + telephone number to <NUMBER> for Smart and TNT for free or <PHONE_NUMBER> for other networks. Thank you.,telecom,telecom,government,0.4649
+Hi Hello <NUMBER>@axl,wrong number,personal,personal,0.3109
+Dear Customer M/S STAR VERTICAL bill for RS. <NUMBER> against Invoice No. <NUMBER> has been presented on ICICI Merchant services. Please click <URL> to make payment instantly.,banking,banking,banking,0.636
+Hi You've received worth of PHP <NUMBER> from GCash. Get here: <URL>,banking,banking,delivery,0.2408
+My Deal of : 66MB Expiry: <PHONE_NUMBER>:54 Easy Minutes: 0 Mins. Expiry: <PHONE_NUMBER>:00 Easy Minutes: 0 Mins. Expiry: <PHONE_NUMBER>:00 Click on <URL> to view your data usage,telecom,telecom,telecom,0.3451
+Dear Customer Your HDFC Credit Card Points Worth Rs.<NUMBER> Will By Expired . Kindly Redeem Points In Cashback By Clicking <URL> -SLaxmi,banking,banking,banking,0.9138
+Dear We're excited to inform you that you can now avail the HDFC Bank Personal Loan of Rs.0.9 Lacs and turn your dreams into a reality. With this offer you can get the money you need without any documentation hassle. Achieve your financial goals starting .,banking,banking,banking,0.9747
+Transaction ID T2305041324034007374349 Paid to SATYAM <PHONE_NUMBER>@postbank Debited from XXXXXXXX0831 Contact PhonePe Support Bike insurance from ₹ 1.5/day*,banking,banking,banking,0.4955
+Hi! DND preferences have been updated for your Airtel number. Registration no. Commercial communication for and timebands will be blocked for the below category/ies.: 1. Fully block all service & promotions To unblock categories & resume the commercial communication SMS UNBLOCK ALL to .,telecom,telecom,telecom,0.8505
+Your order is delivered with invoice no. 5-<NUMBER>. elnvoice & give feedback <URL>,delivery,delivery,banking,0.2809
+Dear Ujwal We have received your order . for Rakhee. Tracking URL <URL> - MyFlowerTree Hi Ujwal We have delivered your order . Please show some love and share your feedback here <URL> Thanks MyFlowerTree,delivery,delivery,delivery,0.3224
+HDFC BANK PERSONAL LOAN Rate of interest starts at 10.30% within 24hrs Disbursement No locking period No hidden charges To apply Call <PHONE_NUMBER>,banking,banking,banking,0.9003
+Article No:LI366390812IN (Inland Speed Post) has been booked on . Track your Article @ <URL>,delivery,delivery,delivery,0.6728
+[<NUMBER>-e-TRANSFER] : YOU HAVE A PENDING DEPOSIT. Data rates may apply,banking,banking,banking,0.3372
+Hi buddie econet is celebrating of its service to our customers. To thank you for your support we are granting you of calls worldwide. Please reply with your name phone number... Terms and conditions apply.,telecom,telecom,telecom,0.597
+You have a package to pickup. Find more info here <URL> ...open info,delivery,delivery,delivery,0.6095
+Dear Customer Your AEPS Cash Withdrawal from A/c No.<NUMBER> with SBI is successful. Rs.<NUMBER>.0 is debited on PM. RRN,banking,banking,banking,0.5861
+Dear HDFC User Your HDFC NetBanking has been blocked. Please update your PAN card number immediately. click here -,banking,banking,banking,0.8897
+HDFC Bank : Dear Customer Your Bank Account will be blocked . Please Update your KYC click to link - https://,banking,banking,banking,0.9573
+Dear customer HDFC Bank account will be Blocked please update your PAN Number click here link,banking,banking,banking,0.9419
+HDFC Bank : Dear Customer Your Bank Account will be blocked . Please Update your KYC click to link - <URL> HDFC Team,banking,banking,banking,0.8916
+Dear HDFC Users Your HDFC A/C will be Blocked Today Please Visit link <URL> Thanks HDFC,banking,banking,banking,0.8142
+Dear customer HDFC netbanking account has blocked please update your pan card immediately. Click the link,banking,banking,banking,0.9455
+Dear customer your HDFC NetBanking account has been blocked . please update your pan card <URL>ik the link. <URL>,banking,banking,banking,0.8959
+Dear User Your HDFC Bank Account will be Suspended! p,banking,banking,banking,0.9702
+Dear HDFC Customer Your HDFC Netbanking will be Block,banking,banking,banking,0.9726
+Acc Frozen TO UNLOCK GO = <URL>,banking,banking,telecom,0.3067
+Dear Customer\n\nWe write with your e-mail addressed to ICICI Bank with regard to your Savings Account XXXXXXXXXX4293.\n\nWe understand from your complaint that you are disputing the below mentioned transaction debited from your aforementioned account on <NUMBER>.\n\<NUMBER>/ UPI/<NUMBER>/UPI Pay/yap135033@equit/ DEBIT <PHONE_NUMBER>\<NUMBER>/ UPI/<NUMBER>/UPI Pay/yap135033@equit/ DEBIT <PHONE_NUMBER>\<NUMBER>/ UPI/<NUMBER>/UPI Pay/yap135033@equit/ DEBIT <NUMBER>.00\n\nWe have verified with our records and submit that the said transaction was done using Unified Payment Interface (UPI). A UPI-PIN (UPI Personal Identification Number) is a 4–6-digit pass code which a customer creates/set(s) during first time registration. To complete every transaction UPI PIN is required. Further you have also authorized previous UPI transactions using UPI PIN.\n\nIn your case shadow credit was processed on and shadow credit has been reserved from your aforementioned account on,banking,banking,banking,0.7642
+Qatar Post: Delivery of your order AY1648585842342ER has been suspended due to incomplete address information. Please update the complete information in time: <URL> Please reply 1 to activate the link and pay for shipping.,delivery,delivery,delivery,0.8775
+Dear HDFC USER Your Account Will be block due to incomplete kyc please open link...,banking,banking,banking,0.8324
+Dear User Your SBI YONO ACCOOUNT Will Be Block . Please Update Your PAN Card immediately. Click on below the link. <URL>,banking,banking,banking,0.61
+Dear customer your SBI bank account has been suspended for KYC. Please...,banking,banking,banking,0.9052
+"['GOVUK: We have identified you as eligible for a discounted energy bill under the Energy Bills Support Scheme. You can apply here: <URL>', 'SANTANDER: A new payee (MR C ) has been added to your account at on . If this was NOT you, please visit: <URL>']",government,government,government,0.7557
+: Your Lloydsbank Bank account has been compromised. Please call us on,banking,banking,banking,0.9678
+"Dear S B I Customer your ATM Debit card has been (blocked) due to (SECURITY REASONS) call for NEW CARD or , .",banking,banking,banking,0.7522
+"Dear SBI Cardholder, on your request, we have blocked your SBI Card ending . To reissue your SBI Card in the future, visit <URL> for more details.",banking,banking,banking,0.9496
+"Pay all arrear Emfuleni Munic. pmts into: STANDARD BANK, ,AccName:MBD EMFULENI TRUST ACCOUNT,Acc#<NUMBER> ,Branch Code:<NUMBER>. MBD: !( . Ref:",banking,banking,banking,0.9056
+Notice / Security notice: <URL>,banking,banking,government,0.3597
+: Unusual device has been detected. We've temporarily locked your account. Verify now,banking,banking,government,0.4607
+There was an error processing your credit card: a duplicate transaction of AUD 441.58 has been submitted. Unauthorised? Click here,banking,banking,banking,0.8662
+We have identified some unusual activity on your online banking. Please log in via <URL> to secure your account.,banking,banking,banking,0.8729
+RM0.00 MBB: Your Maybank Card ending <NUMBER> has not opted for internet transaction. Type ON3D <PHONE_NUMBER> < NRIC or Passport> & send to to opt-in.,banking,banking,banking,0.936
+We have identified some unusual activity on your online Banking. Please login here <URL> to verify your identity.,banking,banking,banking,0.9286
+Access to your ANZ online banking has been restricted. Please follow the link to restore your account,banking,banking,banking,0.9195
+Westpac Bank: Your account was locked and requires additional verification.,banking,banking,banking,0.9918
+"The Reserve bank of have decide to release your unpaid fund of Rs 1,500,000.00, please send your name, phone no,address. via: <EMAIL_ADDRESS>",banking,banking,government,0.3605
+"FRM:[wellsfargo-Service Terminated!]"" MSG:Account Suspended. Please read this: <URL>",banking,banking,government,0.3007
+We have detected an unusual login attempt on your account. Login via <URL>. <URL> to verify account activity.,banking,banking,banking,0.3967
+"(ALERT!) Your Bmo Bank account has been suspended. To unlock your account, click here: <URL>",banking,banking,banking,0.8923
+RM0.00 R.H.B.: <NUMBER>.90 was deducted from your Credit Card on at KLIA2 . Call 03-<NUMBER> if you did NOT perform this transaction.,banking,banking,banking,0.6832
+"BVN ALERT:Dear customer, your ATM card and ACC*****has been DE-ACTIVATED due BVN system error to RE-ACTIVATE please call <PHONE_NUMBER> before .",banking,banking,banking,0.4865
+Your direct debit was not verified upon your last bill. Please update your details now to avoid contract suspension,banking,banking,banking,0.6112
+ALERT Visit <URL> WWEXXA,banking,banking,telecom,0.2571
+"Your account has been restricted. To fully restore your services, please visit <URL> to confirm your device.",banking,banking,banking,0.3496
+"Dear SBI Cardholder, Regret to inform that request for voucher can't be processed as you have already availed the offer.",banking,banking,banking,0.9814
+"Your account has been suspended due to security reasons, visit <URL> to restore full online banking access",banking,banking,banking,0.6487
+You have initiated a txn of INR <NUMBER>.00 at Grofers In on ICICI Bank Card <NUMBER>. OTP is . DONT SHARE IT WITH ANYONE. BANK NEVER CALLS TO VERIFY OTP. You have initiated a txn of INR <NUMBER>.00 at Grofers In on ICICI Bank Card <NUMBER>. is . DONT SHARE IT WITH ANYONE. BANK NEVER CALLS TO VERIFY .,banking,banking,banking,0.8897
+Your account has been temporarily suspended due to 3 incorrect login attempts. Visit the secure link to reactivate.,banking,banking,banking,0.3208
+"Your XXXX8475 has not maintained the bal requirement of Jan18 & will attract fees in <URL> avoid,please fund your a/c to meet the bal requirement for Feb18",banking,banking,banking,0.4099
+Scotiabank Alert SMS Your account was disabled due to security maintenance. Please secure your account below.,banking,banking,banking,0.9408
+A friendly reminder from ANZ that we need to talk to you about your recent credit application. Please call us on or <PHONE_NUMBER> (from overseas) and quote reference #<NUMBER>. Thank you,banking,banking,banking,0.9706
+"We suspect someone is Logged into your Paypal without your knowledge, Confirm your identity and change password",banking,banking,government,0.3044
+"Dear UOB customer, You have received a new account notification The SMS-OTP is <NUMBER> for adding your UOB card to your mobile. Please enter by SG Time. You have successfully added your UOB card to your mobile. If you did not request this, please call us on <PHONE_NUMBER>.",banking,banking,banking,0.4252
+FNB: Your Online Access Is not updated which may lead to account suspension. to update Your OnlineAccess Now: Click:- <URL> Thanks FNB,banking,banking,banking,0.5606
+"Dear Luno User,Your Luno account is not validated and will be deleted in <URL> validate click--> <URL> to secure wallet.",banking,banking,government,0.3198
+"NatWest disabled your Online Banking temporarily due to unusual activities, please restore it via <URL>ine to secure your account.",banking,banking,banking,0.9879
+Dear Pay2tm customer your Pa2ytm KYC has been suspended. Pa2ytm office PH <NUMBER> immediately. Your account will block within . Thank you Paytm team,banking,banking,banking,0.4133
+(WellsFargo) <URL> Request Identity! SuspiciousAccountLocked041,banking,banking,government,0.2466
+ACCOUNT BLOCKED: YOUR LUNO WALLET HAS BEEN BLOCKED DUE TO SSL UPGRADES PLEASE CLICK <<URL>> TO REACTIVATE.,banking,banking,banking,0.5436
+Your NAB account has been locked for suspicious activity. Please check your account <URL>,banking,banking,banking,0.4837
+YOUR PAYTM ACCOUNT WILL BE BLOCK WITHIN IF YOU DO NOT HAVE FULL KYC. Ph.,banking,banking,banking,0.5443
+Your account and ATM card has been closed if you do not call then you have to pay money a bank so just call that number,banking,banking,banking,0.8895
+"Dear Customer, we seek your valuable feedback and wish to apprise you of specific offers. We shall call you on your registered mobile number from ICICI Bank number starting from <NUMBER>. If you do not wish to receive the same, kindly give a missed call on <PHONE_NUMBER> within .",banking,banking,banking,0.8977
+ALERT:DEAR CUSTMER YOUR ACCOUNT AND YOUR ATM HAS BEEN BLOCK DUE TO BVN UPGRADE TO UN-BLOCK IT CALL HELP'SERVICES ON <PHONE_NUMBER> FOR RE-CONNECTION BEFORE 24HS,banking,banking,banking,0.3778
+Your account has been temporarily limited. Please follow the link to restore access: <URL>,banking,banking,banking,0.3627
+"Barclays Support: our security team has tried to contact you regarding your online Banking, Please verify your details.",banking,banking,banking,0.9874
+Dear customer your ATM card has 'been blo'cked if you want to update contact us this is number,banking,banking,banking,0.6825
+Payment for your Canaracard xxxx xxxxx <NUMBER> is due on . Amount billed is Rs <NUMBER>.05. The minimum amount due is Rs 449.25.Ignore this message if already paid.,banking,banking,banking,0.9307
+Your A/c No xxxx4484 has been credited by Rs.100.00 on by IMPS <NUMBER> from DHARMRAJ R GAUTAM. A/c Bal is Rs. 100.19 CR and AVL Bal is Rs. . 00,banking,banking,banking,0.482
+Your N A B account has been lock for unusual activity. Please log on to : <URL> and follow the unlock procedure.,banking,banking,banking,0.3723
+FNB 🏦 Debit order(s) paid from account ending ... <NUMBER> on <NUMBER> : <NUMBER>.00 <URL>BI J25A64050; Reply YES if you are unaware of this debit order(s) and FNB will contact you to assist. Std network charges apply. FNB a div of FRB Ltd.,banking,banking,banking,0.8929
+Dear PYTM –tomer Your PYTM Amount Has Been Hold You did not update kycc please get your kycc up–dated Please contact your customer care immediately,banking,banking,banking,0.4163
+IPAYTM WE WELL HOLD AFTER SOMETIME COMPLETE YOUR PAYTM KYC PAYTM OFFICE PH,banking,banking,banking,0.5501
+Emiratesnbd Bank offering Personal loans with very lowest interest rates on Special Summer promotion offers. please contact for further quaries@<PHONE_NUMBER>(whatsapp) or email at <EMAIL_ADDRESS>. Thanks(maximum amount till 2 million) As requested!,banking,banking,banking,0.9159
+Welcome to Paytm payment bank your kyc verification done successful in your wallet get <NUMBER> cashback click link approved by RBI,banking,banking,banking,0.7271
+"Dear customer, your ATM has been temporarily suspended, to get it updated, please call this number <PHONE_NUMBER> Update your slef",banking,banking,banking,0.4333
+"Thank you for using your SBI Debit Card <NUMBER> for a purchase worth <NUMBER>.0 on POS <NUMBER> at GOOGLE *Octro Inc txn# <NUMBER>.If not done by you, forward this SMS from mobile number registered with SBI to <PHONE_NUMBER> to block your card. You may also call <PHONE_NUMBER>",banking,banking,banking,0.5081
+your account may be suspended. Please complete verification steps: <URL>,banking,banking,banking,0.3237
+Nedbank Warning: Update your account to avoid suspension in login. Tap-> <URL> to update,banking,banking,banking,0.8441
+Unusual activity on your ASB online account. To avoid account suspension secure your account.,banking,banking,government,0.4443
+"Your Paypal account has been temporarily suspended, please confirm your details at <URL> to avoid loss of account.",banking,banking,banking,0.5107
+Paytm never calls you asking for . gives anyone full access to Paytm balance. OTP for linking your account to is .,banking,banking,telecom,0.3778
+Nedbank: Kindly verify and update your account to avoid termination. Click --> <URL> to validate account. Nedbank Team,banking,banking,banking,0.9527
+Your CB Card has been blocked. Please send us your account number and password to unblock it.,banking,banking,banking,0.9014
+Dear Customer Your PAYTM Wallet Has been Blocked and Hold Your Amount Please,banking,banking,banking,0.7371
+**** is your One Time Password for online purchase of Rs 15.00 at WWW OLA CABS COM thru State Bank Debit Card ending <NUMBER>. Don't share this with anyone,banking,banking,banking,0.6937
+"ALERT ONLINE BANKING: The account associated to (<NUMBER> MY NUMBER), has been BLOCKED, follow the instructions to UNLOCK your online: <URL>",banking,banking,banking,0.7362
+Dear customer your ATM card has been <URL> contact this number <PHONE_NUMBER>/<PHONE_NUMBER>,banking,banking,banking,0.5408
+"Dear Customer, Your Credit Score has been increased. Check your updated report here <URL>",banking,banking,banking,0.7764
+Your account and ATM card has been blocked due to not update your details with bank. For further assistance call on this number <PHONE_NUMBER>,banking,banking,banking,0.6702
+"As of , all VISA card holders must finish our verification procedure:",banking,banking,banking,0.9523
+Fund transfer request of Rs. <NUMBER> from Account 0271XXXX2263 to Account 0271XXXX0807 has been completed on vide transaction reference MFTA000051353565.,banking,banking,banking,0.4979
+"Hello, Get your new bank account instantly No Minimum Balance commitment! Submit your detail now",banking,banking,banking,0.9476
+"NAB Alert! We have identified some unusual activity in your online banking. Please login <URL> to restore your online banking. Thanks, NAB",banking,banking,banking,0.8305
+"Dear Customer Your PYATM Wallet Has been Blocked and Hold Your Amount Please ,",banking,banking,banking,0.5686
+[PayPal] Did you pay [REDACTED] to [REDACTED] LTD on ? Reply 1 if yes or 2 if no. [Reply Needed],banking,banking,banking,0.4668
+"We have noticed unusual activity on your account, visit <URL>ine/?p=2 to restore full account access",banking,banking,banking,0.4032
+Unusual credit card activity is noted. Unlock your account manually.,banking,banking,banking,0.7569
+KeyBank is undergoing a server upgrade. Update your profile now via: <URL> to continue enjoying uninterrupted banking.,banking,banking,banking,0.9776
+Dear ( paytm)customer your paytm KYC has been suspended PAY-TM office PH <PHONE_NUMBER> A/C will block within 24hr Thank you,banking,banking,banking,0.4587
+Chase Fraud: We Declined $69.99 on your card ending in **** at <URL> on . Was this you? Reply YES or NO. Msg & data rates may apply.,banking,banking,banking,0.9673
+Your for Spice Money PPI account registration is . Please update KYC to initiate any Fund transfer.,banking,banking,government,0.3783
+Dear customer your Mahindra Kotok account has been Expire Please updated Your Account immediately to contact customer ph,banking,banking,banking,0.576
+"We're updating our security features. To make sure your account is up to date, please confirm your details via <URL>",banking,banking,government,0.3468
+Dear PYATM customer your Pytam KYC has been <URL>atm office PH <PHONE_NUMBER> <URL>r account will block within <URL>ank you pytam team,banking,banking,banking,0.4506
+"Activate your Capitec account, Pay <NUMBER>.99 , Acc: <NUMBER> Branch <NUMBER> . Ref:<NUMBER> . :R 18? 521,01. Tel SSDA: <NUMBER>",banking,banking,banking,0.5105
+"Dear customer, Your PAYT.M eK-y-c has been cancell please contact customer care no.<PHONE_NUMBER> immediately. Your A/c will be closed within 's Thank you.",banking,banking,banking,0.4266
+Received payments ₹<NUMBER> using this link - <URL> Refund money ₹<NUMBER> using this link - <URL>,banking,banking,banking,0.3992
+"RM0.00 Your CIMB Bank Credit Card ending with **<NUMBER> had been Cash out MYR3,000 on . Call CIMB Bank for any enquiry <PHONE_NUMBER>",banking,banking,banking,0.9384
+"Dear pay,,tm customer your KYC has been <URL> Verified Pay,,tm KYC call <PHONE_NUMBER> immediately. Your account will be blocked within .",banking,banking,banking,0.696
+RM0 CIMB BANK:RM 137.73 was charged to your Debit Card on at <URL> Pls call the no. at the back of your card for any enquiry,banking,banking,banking,0.9101
+<NUMBER> is for your ATM Cash WDL TXN through ATMID S5NE011511621 of Rs.<NUMBER> from SBI Acct <NUMBER>. Do not share with anyone. Download YONO@ <URL>,banking,banking,banking,0.5408
+"Dear Thank you for banking with us To ensure we serve you better in , we would like to ask 3 questions. Please click the WhatsApp Chat Link below and send the code displayed: <URL> Union Bank wishes you a prosperous",banking,banking,banking,0.8809
+FNB: Please note that all debit order disputes logged via the FNB App or Online Banking will now incur a charge of <NUMBER> from . Disputes logged via the Branch and Telephony banking are <NUMBER> per dispute. FNB a div of FRB Ltd NCRCP20.,banking,banking,banking,0.9836
+if you want keep using your A T M card click here for update,banking,banking,banking,0.6513
+"HSBC: A payee has been added from a NEW DEVICE at . If this wasn't you, cancel this via",banking,banking,banking,0.8997
+Rs. 679.00 is due on your Personal Loan <NUMBER>. Please pay at earliest to avoid paying further interest <URL>,banking,banking,banking,0.6089
+"Chase-Alerts: Dear user, your account is temporarily blocked due to unusual login attempt, kindly visit at to proceed further.",banking,banking,banking,0.9557
+"I checked my bank icici bank account in which amount rs <NUMBER>.00 deducted at on . I checked transaction remark it's UPI/<NUMBER>/NA/<NUMBER>/Paytm Payments Kindly look into this issue, I have filed complain against this transaction in icici bank as fraud transaction also on cyber cell . Please stop this payment. Transaction renark shows paytm.",banking,banking,banking,0.939
+PAYTM WE WILL HOLD YOUR PAYMENT AMOUNT AFTER SOMETIME COMPLETE YOUR PAYMENT SERVICE PH,banking,banking,banking,0.9018
+Dear customer your KOTK MHIN... BANK A/c will be close . Please complete your verification. Please click on this link <URL>,banking,banking,banking,0.7285
+"RM0 CIMB:MYR <NUMBER>.00 was charged on your card num <NUMBER> at Shopee. If this is not your txn, call now.",banking,banking,banking,0.8273
+"Rs 5,000.00 received on CNIC: <NUMBER> sent from JazzCash Mobile Account: Collect from JazzCash Biomtric . TID: <NUMBER>",banking,banking,telecom,0.53
+Dear Customer Complete Your PAY `TM eK`YC Documents expire please contact PAY `TM support team <PHONE_NUMBER> immmediately. Thanks you,banking,banking,banking,0.6506
+Savings Bank ACC LOCKED Go to <URL> ACCOUNT-ID:agioitneop !,banking,banking,banking,0.8254
+Dear PYATM customer your PYATM eKYC has been expire please call customer care no <NUMBER> your PYATM account will block 's Thank You,banking,banking,banking,0.4746
+CASH IN GHc120.00 received <URL>TE ONE ENT.... Sorry Your have been BLOCK due to reacieving wrong transaction so don't attempts your <URL>ank ¥ou? Reversal <NUMBER>.00 made on pending approval Reversal <NUMBER>.00 made on pending approval,banking,banking,banking,0.3375
+PayPal:Your account is undergoing review please visit; <URL>?p=4 to remove block.,banking,banking,banking,0.5404
+Dear KOTAK MAHINDRA Customer Your KYC has expired. your account will Hold plz call customer care no <NUMBER> immediately for more details.,banking,banking,banking,0.4049
+BTC withdrawal received. It wasn't you cancel here <URL>,banking,banking,banking,0.4797
+", in accordance with RBI’s circular on , you can avail the extended moratorium scheme on YES BANK Credit Card ending <NUMBER> by opting in on or before . Amount outstanding on your card will continue to accrue interest upto 42% p.a. To OPT IN, visit: <URL>",banking,banking,banking,0.9271
+Dear Avail your Personal Loan offer of Rs. <NUMBER> with low EMIs of Rs. Click <URL> Valid-3Feb20 T&C Finserv MARKETS,banking,banking,banking,0.7911
+"Standard Bank Anti-Fraud: Dear Client, we are happy to inform you that your card fraud claim is resolved. Your refund will reflect on your statement within .",banking,banking,banking,0.9846
+"Dear user, Your P A T Y M Documents has been expired . Call helpline no. <PHONE_NUMBER> immediately. Your a/c will deactivated within . Thank you.",banking,banking,government,0.44
+"HSBC: Your request to add payee on has been received. If this was NOT you, please review urgently: <URL>",banking,banking,banking,0.8702
+"Paypal Security :We have detected unusual activity on your account, please follow at:<URL> to continue.",banking,banking,banking,0.6321
+This is for As Covid-19 is spreading we have locked your debit card for safety. Please sign in to regain use:,banking,banking,banking,0.4864
+"Download, Register and Bank! Get a Kotak 811 Savings A/c in right from your phone. -Zero Balance Account -Free Fund Transfer Open 811 A/c: <URL>",banking,banking,banking,0.5266
+"Greetings from AU Small Finance Bank!! Your Service Request no. <NUMBER> has been created for ""IMP /UPI RECALL"", which will be resolved in . For further assistance, we request you to visit your nearest AU Small Finance Bank branch or call our Customer Care at <PHONE_NUMBER>. We thank you for banking with AU Small Finance Bank and assure you of our best services at all times. Warm Regards, AU SMALL FINANCE BANK LTD.",banking,banking,banking,0.9799
+Dear PAYTM User Your PAYTM A/C K.Y.C Has Been Expired Call immediately For Verification A/c will be Blocked within <PHONE_NUMBER>,banking,banking,banking,0.3809
+"Dear Customer, Please do not open email/Click on the links in emails from contacts not in your list or from suspicious sender. It could be a phishing email to steal your personal/financial information. Bank never sends such email calling for any such information. Beware ! Fraudsters could trick you with similar looking domain id as the sender's name . eg. >",banking,banking,banking,0.7315
+"Trx ID <NUMBER>. You have received Rs. 3,900.00 from PARVEEN BiBi - <PHONE_NUMBER> <NUMBER> _ . Please collect from nearest Easypaisa biometric merchant by providing Trx ID, your CNIC number and Biometric verification.",banking,banking,delivery,0.3219
+"Dear customer, Your BOB BANK atm card will be blocked. please contact us immediately and update your document. Office Ph. <NUMBER> Thank u",banking,banking,banking,0.9304
+"Dear user, Your P A T Y M Documents has been expired . Please call us immediately. Your a/c will be suspended within . Thank you.",banking,banking,government,0.5015
+PaytmOffline has requested money from you on PhonePe. Rs.<NUMBER> will be debited from your account on approving the request - <URL>,banking,banking,banking,0.3934
+"HSBC: New payee request for R Davies to your account through your HSBC mobile banking app. If this was NOT you, visit: <URL>",banking,banking,banking,0.862
+"Congrats User! Your Account has been credited With Rs 53,452 ...",banking,banking,banking,0.4766
+Dear customer Your documents Has been closed Today Please call Customer care <PHONE_NUMBER> Immediately Your account might not be work within .,banking,banking,banking,0.357
+LLOYDS: You have successfully scheduled a payment of 54.99GBP to a new payee for on 14/12. If this was NOT you visit: <URL>,banking,banking,banking,0.5306
+"RM0.00 MyASNB Portal: Update Personal Details Request. TAC is Exp by , MYT. Did not request? Call <PHONE_NUMBER>",banking,banking,government,0.3044
+Rs. ... is Debited to A/c ... (Avlbl Bal Rs. ...,banking,banking,banking,0.3495
+"On your request, address has been changed in account no. XXXXX If not requested, please contact your branch. On your request, KYC details has been updated in account no. XXXXX If not requested, please contact your branch.",banking,banking,banking,0.7295
+Ledger: Ledger Wallet Online is being replaced by Ledger Live. You have unclaimed 2.71 BSV (Bitcoin SV). Our support for BSV ends . More information:,banking,banking,banking,0.3559
+Dear customer your HDFC Bank A/C will be KYC suspended please complete your KYC click here to open link -<URL>,banking,banking,banking,0.931
+"Do not share! <NUMBER> is your to generate the Service Request for CRN XXXXXXXX953. To report fraud, click <URL> - Kotak Bank",banking,banking,banking,0.7004
+Dear customer Your SBI Bank Account has been Blocked Plz Update your Document visit SBI website Click here to Update by Net Banking,banking,banking,banking,0.961
+-Did You Attempt A Zelle Payment For The Amount of $<NUMBER>.00? Reply YES or NO Or 1 To Decline Fraud Alerts,banking,banking,banking,0.3815
+"LLOYDS ALERT: We have temporarily FROZE your Lloyds account. To keep using our services, please VALIDATE your account here: <URL>",banking,banking,banking,0.9292
+Dear customer your SBI account has been blocked due to KYC update within please contact customer care <NUMBER> to continue your service. Thank you,banking,banking,banking,0.7544
+"Citi Security Alert: To protect your Citi Bank account from being compromised we locked it, continue to: and regain access.",banking,banking,banking,0.9928
+Dear SBI user your SBI YONO Account has been blocked please revert your PAN CARD click here to login your PAN number: <URL>,banking,banking,banking,0.7977
+"#Alert-*Paypal|You've paid AU$<NUMBER>.00 to Int'<URL>. on , If any Query or Dispute Please Report on <PHONE_NUMBER> Thank You.",banking,banking,banking,0.3061
+"GOOD MORNING!!! This is ASAPKASH LOAN COMPANY and we are contacting you on behalf of ... (07...)he gave us your number as your emergency contact when he partnered with us on borrowing ASAPKASH Loan. He was to pay but he hasn't done so We have tried to reach HIM by all means but he is unresponsive so kindly help us pass this message to HIM Tell hlMto clear THE loan before 12NOON ** NOTE. THIS MONEY MIGHT BE DEDUCTED FROM YOUR Thank you. . 3,240",banking,banking,banking,0.338
+"HSBC ALERT: Transfer attempt has been detected to a NEW RECIPIENT. If this was NOT made by you, Immediately visit: https://",banking,banking,banking,0.876
+Capitec: You won't be able to use our old app from . Your current phone doesn't support our new app but you can still use Internet Banking or *120*<NUMBER>#,banking,banking,banking,0.3971
+Citi(Alert): Your is on hold due to strange activity being found. Please Update info at to regain control.,banking,banking,banking,0.9771
+RM0.00 CIMB: You are required to update your CIMB profile by or your Clicks ID may be blocked. Update @,banking,banking,banking,0.3985
+"Hello 9131XXXX08, Open Trading A/C and get benefits worth Rs. 92,989/- Click here to open A/C",banking,banking,delivery,0.3577
+Dear customer your Paytm wallet KYC has been suspended please update your KYC click link and activate your Paytm wallet,banking,banking,banking,0.4015
+Your new statement for credit card ending <NUMBER> is ready to view. Log into your Bank app view the statement. Thanks – Pls call <PHONE_NUMBER> Your account has been suspended and requires verification. Please follow the link or visit the nearest branch.,banking,banking,banking,0.9659
+"We would like to notify you that you have received a refund of 52,63 SGD, to proceed it please complete your form via",banking,banking,banking,0.4039
+Your Loan application having Reference ID- <NUMBER> has been received. Please visit UCO BANK Website to check your loan status after .,banking,banking,banking,0.9641
+PayPal: We have limited your account due to safety concerns. Please visit <URL> before we are forced to suspend services.,banking,banking,banking,0.6343
+"There has been a login attempted from a new device. If this was NOT you, please follow the steps here: <URL>",banking,banking,government,0.3096
+Your CPR has been expired from the BenefitPay record So please update your CPR again immediately in your BenefitPay Account click here <URL>,banking,banking,government,0.5013
+Dear A/c Holder Your SBI Bank Account will be Blocked Update your Document Now visit SBI website <URL> Update by Net Banking,banking,banking,banking,0.8363
+Dear SBI user your SBI ...,banking,banking,government,0.3384
+"Chase Online® : We placed a temporary hold on your Online access, This my have been places due to account security, Please restore: <URL>",banking,banking,banking,0.9794
+"Hi , As requested, we've funded your <URL> portfolio with 15.505 BTC current market value should be about (€458,215) We performed detailed accounting to ensure it doesn't show up on your taxes as you explicitly requested, are your new login details and remember, access is unchanged. <URL> Customer ID: <NUMBER> Password: hp34xk2g Regards, Coins45team",banking,banking,banking,0.4
+"Congratulations, BigPay-App, your number(<PHONE_NUMBER>) Has been chosen as the winner link.",banking,banking,telecom,0.3877
+"Dear Sir/Madam, an amount of Rs. 37,877 for your Tata Capital PL-OD loan a/c No. <NUMBER> for of Aug'21 is due on 3rd Sept'21. Kindly maintain sufficient balance in your bank a/c prior to avoid paying charges later. In case of a holiday (including ), EMI will be debited on . Do note, the EMI paid will reflect on your loan statement only after .",banking,banking,banking,0.957
+"Dear policyholder, we have registered your policy no <NUMBER> under NEFT with CANARA BANK under A/c code XXXXXXXXXX1477. Dear Customer, Loan of Rs.<NUMBER> has been raised under your . Please pay the loan interest on due dates.",banking,banking,banking,0.9711
+Beware ! <NUMBER> F to be withdrawn from your account! Enter your PIN code to confirm this transaction No <NUMBER> initiated by ZOA ALPHONSINE,banking,banking,banking,0.6226
+Dear SBI user your SBI YONO Account has been blocked please verify your PAN CARD click here to login your user ID and Password...,banking,banking,banking,0.6167
+"- For your safety, we have blocked all access to your bank account. To secure your account we need you to visit: <URL>.",banking,banking,banking,0.7895
+"Your bank account has been logged in through another platform, please verify again to protect your rights.",banking,banking,banking,0.9073
+"Dear Customer, your Home Loan application request could not be completed due to incomplete details. To continue your journey, click <URL> -ICICI Bank.",banking,banking,banking,0.9749
+"OCBC: You have a credit card with a limit of S $<NUMBER>, which can be activated: <URL>",banking,banking,banking,0.943
+Phonepe Sent You ₹499 Ca... CREDIT IN YOUR BANK XXXXXXXX537,banking,banking,banking,0.8611
+"Dear customer your SBI A/C KYC has been not completed, <URL>plete your kyc Click here link submit your details",banking,banking,banking,0.7006
+"Sir/Madam, I'm from HLB Bank, We're offer you RM250K Personal Financing-i . Kindly reply 'YES' to know more. Thank You",banking,banking,banking,0.9939
+"Hi, Personal Loan up to 25 lakhs available at an attractive interest rate with fast approval from Bajaj Finance. Click",banking,banking,banking,0.882
+Disabled: Online transactions on your HDFC Bank Credit Card <NUMBER> as per RBI norms for card security. To Enable: <URL>,banking,banking,banking,0.9512
+"A withdrawal was initiated on your account. If you did not authorize this, immediately disable your account at <URL>",banking,banking,banking,0.5107
+"Hi , KreditBee Independence Day OFFER - Get 50% OFF on Processing Fee! Use Code INDI50 Valid till 15th Aug. Complete your Loan Profile NOW:",banking,banking,banking,0.3983
+"Dear, Customer Your SBI Account Will be Suspended! Please Re KYC Verification Update Click <URL>",banking,banking,banking,0.6157
+"Dear Customer, Your recharge for AIRTEL PREPAID - account <PHONE_NUMBER> for Rs <NUMBER>.00 with reference no YONOWBDI000085297736 has been received and recharge will be initiated with the operator shortly. -SBI",banking,banking,telecom,0.886
+Lloyds: A request to add a new payee has been setup on 16/02 at 15:38PM. If this was NOT you please visit : <URL>,banking,banking,banking,0.7216
+MY Dear Customer Your bank Accounts KYC has been suspended please update your KYC click in link and activate your icic bank account,banking,banking,banking,0.8965
+Your Credit Card Application No- <NUMBER>/ RDE917/<NUMBER> Has Been Approved Please Check The Status:- <URL> eclgo,banking,banking,banking,0.4939
+", has settled your withdrawal of Rs.<PHONE_NUMBER>.61 from BharatSwipe a/c in your KKBK a/c <NUMBER>.",banking,banking,banking,0.3563
+"News from HDFC: You + Us: We Miss That. We would love to hear from you. Our latest offerings including an HDFC Home Loan for a second home @ 6.75%* p.a. onwards with a flat processing fee offer of Rs. <NUMBER> (+Taxes), is just a click away. Should you wish to know more, Click here",banking,banking,banking,0.5923
+Payment +<NUMBER>.00 into SAVINGS ACCOUNT,banking,banking,banking,0.5411
+"Dear Sir/ Mam, with reference to settlement of your SBI Credit Card ending 39 we have an exclusive offer to improve your Bureau scores. If interested, please contact us on",banking,banking,banking,0.9128
+"ALAT Credit NGN1,000.00 Acct No:<NUMBER>****47 Desc.: NIP: /ussd/IFT114413 Bal: 641.42",banking,banking,banking,0.7124
+Your bank account has been blocked and all services have been withdrawn. Click on the following link BankSmish to reactivate your account now.,banking,banking,banking,0.9419
+"Your ongoing EMI of Capital Float(BAN18E000295726) is overdue. Clear your dues immediately to improve ur credit profile. Click to pay now! <URL> Pls, Ignore if already paid.",banking,banking,banking,0.8997
+"You've paid <NUMBER>.99 AUD for E-CARD INC*PayPal on TXN-ID#8ER54789OrWk, If it's not done by you, Call us now: <PHONE_NUMBER> for DISPUTE!!",banking,banking,banking,0.5154
+"Tapas, you have access to MoneyTap’s flexible personal credit line. Reapply on the app to get an amount of Rs.<NUMBER> :",banking,banking,banking,0.3709
+Thank you for interacting with your . Connect on <PHONE_NUMBER> on . For more details <URL>,banking,banking,telecom,0.3318
+CIBC : Action Required! Please visit,banking,banking,banking,0.8276
+"**IMPORTANT MESSAGE FROM COMMBANK** For your security, we have locked your account. To restore your access, call us on or go to <URL> & follow the prompts.",banking,banking,banking,0.9432
+"Old Mutual: Dear AM ,you have stopped paying premiums on a savings plan <PHONE_NUMBER> but your funds remain invested. A fee applies that reduces your funds. To claim your remaining value send a copy of your ID and bank statement, to <PHONE_NUMBER> or email to <EMAIL_ADDRESS>. No reply SMS. FSP&Ins. T&Cs",banking,banking,telecom,0.3285
+You have sent a payment of $22.00 USD. You can view or cancel this payment at:<URL> PP-ID-#STRING-#,banking,banking,banking,0.4536
+Our records indicate that your account in under fraudulent risk. Please reassess and verify your info.,banking,banking,government,0.3485
+ADVISORY your account is all about to deactivate please verify here if your registered mobile number is still active <URL>,banking,banking,telecom,0.3274
+"An unauthorised transaction has been made using your AIB VISA Card, if this was NOT you please visit: <URL>",banking,banking,banking,0.7035
+"Standard Bank: Your Account is not updated on the server, Click > <URL> & Update your Account to avoid Server Block Standard Bank Team",banking,banking,banking,0.936
+"Dear Customer, Your Credit & debit Card Has Been Suspended Because you Didn't Update yet, if You Want To Activate again Please call us at,",banking,banking,banking,0.6645
+ICICI Bank Account <NUMBER> is credited with Rs 1.00 on by Account linked to mobile number XXXXX99999. IMPS Ref. no. <NUMBER>.,banking,banking,banking,0.9575
+", now increase your overall credit limit. Click <URL> to increase limit and get a new pre approved additional SimplySAVE SBI Card instantly, in addition to your existing SBI Credit Card. Offer valid till: . T&C",banking,banking,banking,0.884
+PleasefindattachedtheSCBA Dear user your S.B.I A/c Will be blocked update your P A N Card Click here <URL> SBIAContact,banking,banking,government,0.3748
+Dear SBI User Your yono NetBanking ACC0UNT will be blocked . Please submit your PAN Card right now Click here URL,banking,banking,banking,0.8148
+(Coinbase) : Verify your ID for next level security. ID verification ensure your account that belong to you. Required to maintain accurate information about our customers. Complete all steps within or your account will be restricted.,banking,banking,banking,0.3247
+"Dear Customer your ""SBI Net Banking will be deactivated . Please details. Now visit the link <URL>",banking,banking,banking,0.7416
+Dear SBI User Your SBI A/C Will be Suspended Update Your PAN Card <URL> here,banking,banking,banking,0.4966
+"Bendigo Bank: You have added a new payee. If this was not you, please visit: <URL>",banking,banking,banking,0.8487
+"Hi , Congratulation! you have pre-approved Loan Against Property offer with Bajaj Housing Finance Ltd. with interest rate as low as 8.25%* Click to know more about this offer.",banking,banking,banking,0.6491
+"Dear Parents, Customer SBI A/c is Blocked your KYC is Pending update Pan online to unblock visit <URL> Now Rgds, ChildrenTT",banking,banking,banking,0.4625
+"Payment Request from BAJAJ FINSERV DIRECT LIMITED PAYMENT FOR SPECIAL DISCOUNT of Rs. 100 on WALLET PROTECT Now avail the membership at Rs 599 only. Features included in the membership: 1. Protection against Credit/Debit Card fraud upto 2 lakhs 2. FREE Voot & ZEE5 subscription worth Rs 898 3. Single call to block all your cards 4. Free PAN Card Replacement 5. Emergency Travel Assistance upto 1 Lakh Post successful payment, you will receive membership kit within . If already paid please ignore. In case of any queries please write to us on : <EMAIL_ADDRESS> RECEIPT WPR00000947652 AMOUNT PAYABLE INR 599.00",banking,banking,banking,0.3423
+Dear SBI user your SBI YONO Account wi...,banking,banking,banking,0.4181
+"Greetings from UnionBank! You are eligible for Php 5,000 Holiday Gift as we join you on your celebrations . To claim, just fill up the form here: <URL><EMAIL_ADDRESS><URL>",banking,banking,banking,0.713
+Your online account has been limited because of unusual transfer attempts. Visit <URL> to verify.,banking,banking,government,0.3341
+NCB ALERTS: Your account has been locked due to suspicious activity. Please verify at <URL> to regain access.,banking,banking,government,0.5099
+HDFC Bank: TVS Credit Services Limited has requested Rs. <NUMBER>.00 from you through UPI. To authorize debit from your account please login to your UPI App. To pay instantly click here <URL>,banking,banking,banking,0.6887
+Standard Bank: <NUMBER>.00 Online purchase from . Please follow this link <URL> to review/ cancel transactions. 18 Aug 22.T&C's apply.,banking,banking,banking,0.8976
+Dear user your SBI YON0 Account will be close click here on the link update your PAN CARD Number.,banking,banking,banking,0.8533
+"Dear m0ney trnsfer, Kindly complete your ESIGN process by clicking on the link \: reply- <EMAIL_ADDRESS>. Team\, reliancesmartmoney\.com",banking,banking,banking,0.2591
+Dear Customer Your HDFC Account has been blocked please Update Your PAN CARD http://,banking,banking,banking,0.8777
+"PTSB: We have temporarily limited access to your PTSB online due to failed login attempts, to re-authenticate visit: <URL>",banking,banking,government,0.6372
+refund for your payment will be initiated after if you don't setup an instant refund account. it can take to credit the refund amount in your bank. setup a refund account to get the money within .,banking,banking,banking,0.8963
+"Hello, your loan is due . In order to avoid unnecessary effects due to overdue, please make sure to pay the loan . Otherwise, you will not be protected by law. Remind you that maintaining a good reputation will help the system evaluate you, and the amount of borrowing again will increase. [Quick cash] Application and download: <URL> After the payment is successful, please upload the proof of payment to the background of the application, thank you.",banking,banking,banking,0.7389
+"SMS BLOCKALL Cust ID to , if not you-Axis Bank",banking,banking,banking,0.6742
+"Dear user with loan number <NUMBER>, your ZIP bill of Rs 85.51 has not been paid since . Settle your bill at the earliest to avoid Penal charges or legal action. Please ignore if already paid.",banking,banking,banking,0.5425
+Dear customer Your SBI Bank Account has been put on HOLD Plz Update your Document visit SBI website https:// <URL>,banking,banking,banking,0.9503
+Dear SBI user Y0U0 YONO ACCOUNT will be bloked . Please click on the link to update your pancard <URL> Thank you MNHDRA,banking,banking,banking,0.3521
+"DEAR SBI USER, Your Y0N0 A/C has been blocked , update PANCARD verify your A/C with login for KYC click here link:",banking,banking,banking,0.4065
+PTSB: Your account has been put on hold due to our detection of unusual activity. Please go to <URL> and adhere to the directions provided there.,banking,banking,government,0.5406
+"Hi Mr. , your savings account ending with <NUMBER> is temporarily on hold due to a suspicious transaction. Kindly verify and provide your information here <URL>.",banking,banking,banking,0.5825
+"Santander: You've ordered your flex credit card to address ending, *** 4FJ on the . If this was NOT you visit: <URL>",banking,banking,banking,0.8174
+Suspicious activity detected on your AIB visa debit card online. To ensure your safety verify your identity with: <URL>,banking,banking,banking,0.5563
+"Dear Customer, please upgrade to new version of UMobile app for all your Banking needs. Download now : <URL> Union Bank of India",banking,banking,banking,0.9231
+Dear Customer your HDFC NET BANKING ACCOUNT Will be Suspended please update your PAN card now visit below the link http:// <URL>ine,banking,banking,banking,0.8741
+"Your CommBank account has been blocked . to lift the restriction, click here to re-verify your account <URL>",banking,banking,banking,0.9563
+Dear sbi yono customer your SBI account will be closed. Please click here link or update your PAN card number thank you.,banking,banking,banking,0.8708
+"Customer-ID7616ZVS Unauthorized account data access When : , Device : Mozilla Firefox Windows 10 (Desktop) Near : Different from the current IP <PHONE_NUMBER>) For security reasons, we can't verify in your Amazon app. Please update your account information here.",banking,banking,government,0.2477
+Your access has been restricted due to some unusual activity. Please visit <URL> - DO NOT REPLY TO THIS SMS.,banking,banking,government,0.3369
+"RM0.00 M3U: Dear M3U users, your account has been suspended. Log on to <URL>ine to complete the validation process. Please make verification in to avoid service interruption.",banking,banking,telecom,0.3952
+"Your will be ,Click <URL> to update now and keep active on the <NUMBER> server",banking,banking,government,0.4164
+"Overcome limitations with a Sanlam Personal Loan of up to <NUMBER> 000. Apply: SMS ID no. to <NUMBER>, call <PHONE_NUMBER>. SPL NCRCP272. DA FSP7249. Ts&Cs",banking,banking,banking,0.5579
+"Nedbank: Your Nedbank Account is not updated on the server, Click > <URL> & update your Account completely to avoid Block Nedbank Team",banking,banking,banking,0.8173
+"The lawyer, Mr. , has been appointed to file an authorization/non-performance complaint case against you in , . This may result in ’ imprisonment or double fines or both because you fail to clear your dues Rupeek loan. for settlement/payment or visit the nearest Airtel store to pay in cash. Pay online through the [Rupeeking] app:",banking,banking,telecom,0.5494
+"Dear Customer, Welcome to the new login page of HDFC Bank NetBanking. Its lighter look and feel is designed to give you the best possible user experience. Please continue to login using your customer ID and password. Your security is of utmost importance. First Time User? We have added a host of new features! You can now do so much more: □ Anywhere access through Desktop or mobile □ Enhanced security measures",banking,banking,banking,0.86
+"Your E D D Debit Card has been temporary deactivated due to suspicious reasons. To activate your Card, Kindly Validate your information using the link below",banking,banking,banking,0.7347
+AutoPay (E-mandate) Reminder! Your Google Play - Content Purchase Services Amt Rs.<NUMBER>.00 will be deducted from HDFC Bank Debit Card xx ON: SI Hub ID: WExYXInBe2 Cancel: <URL> TnC,banking,banking,banking,0.6867
+Please be aware that your wallet will be suspended if you do not enable it in the SMS authentication system: <URL>,banking,banking,banking,0.4306
+"DEAR SBI YONO USER YOUR SBI A/C WILL BE BLOCKED , PLEASE UPDATE PAN CARD FOR EKYC THROUGH NET-BANKING. click here",banking,banking,banking,0.4685
+BODTAmt Your SBI Account Will Be Blocked update your PAN Card Number SBI Bank Click <URL> MarginMarginFinalLedgerNBSP-Lender,banking,banking,banking,0.9132
+"[Binance]According to the regulations, investors must open a wallet service, otherwise the account cannot be used.",banking,banking,banking,0.4363
+"Dear Customer, thank you for the CHEQUE RECEIPT Payment of Rs. <NUMBER>. dated towards your Vehicle Loan, vide Receipt No. 50384222J08P0003. Click <URL> and download the e-receipt. For queries, call <NUMBER>. - IndusInd Bank",banking,banking,banking,0.8671
+Your account with has been restricted after it was caught exhibiting strange activity. You are advised to <URL> ASAP in order to rectify.,banking,banking,banking,0.463
+"Good news! Your transaction with UPI RRN number <NUMBER> dated , has been refunded to your Tripura Gramin Bank account. You should have received a refund of ₹1,999 on . Check your bank statement to confirm.",banking,banking,banking,0.8542
+LANDBANK ALERT: Due to system maintenance. We need some information to validate your account <URL>,banking,banking,banking,0.9355
+Bendigo Bank: We have detected some unusual transactions on to . Please visit <URL> to review activity.,banking,banking,banking,0.9925
+"BINANCE: We have received a withdrawal request from an unknown IP address. If this was NOT you, please click here to cancel transaction: <URL>",banking,banking,banking,0.498
+"JPMorgan Chase Bank Suspicious Activity - Did You Attempt A Zelle Transfer For The Amount Of $2,000.00 On ? Reply YES or NO To Decline Payment.",banking,banking,banking,0.9768
+westpac : Revolut <NUMBER>$ please cancel this transaction if this was not you: <URL>,banking,banking,banking,0.6249
+Dear Customer your Paytm Account will be Blocked Please update Your PAN Number immediately click here to link,banking,banking,government,0.4879
+"DEAR , IS THE ONE-TIME PASSWORD FOR YOUR LOAN APPLICATION WITH L&T FINANCE LTD.",banking,banking,banking,0.5955
+"INR 590.00 debited from Axis Bank A/c no. xxxxxxxx on <PHONE_NUMBER>:19:03 IST for Dr Card Charges ISSUE. . For details, call <NUMBER>.",banking,banking,banking,0.9553
+PayTymebank Notification. +<NUMBER> has been paid to your account. TAP <URL> to ACCEPT payment. Ref No: <NUMBER>. . T's&C's Apply FSD49102,banking,banking,banking,0.7613
+: TQ for using card ending for <NUMBER> AT shopee. Pls contact CS <PHONE_NUMBER> if you didn't use it,banking,banking,banking,0.5528
+"18. Receive $10,000 Cash Loan With Any Credit Type-Approval in a Minute Apply Here",banking,banking,banking,0.4672
+Uh-Oh seems like there's a problem with Apple Pay on this device. You can reactivate contactless payments via: <URL>,banking,banking,banking,0.4059
+"Service Query Resolved! Click <URL> to share feedback. Give Missed Call on <NUMBER> to know loan, EMI Card & FD details. Bajaj Finance Ltd Service Query Resolved! Click <URL> to share feedback. Give Missed Call on <NUMBER> to know loan, EMI Card & FD details. Bajaj Finance Ltd",banking,banking,banking,0.6927
+Wells/Verification: We have put security hold on your debit. Follow <URL> to unlock now,banking,banking,banking,0.9255
+Dear user Your SBI YONO Account will be block plz update your aadhar/pan in 10 min immediately plz click here link <URL> Thank you SBI,banking,banking,banking,0.6047
+Your request for Loan Foreclosure with <NUMBER> for loan number XXXX8738 is now resolved. NOC will be sent to your registered mobile number within from . You can also access same on the mobile app by clicking on <URL> Team IDFC FIRST Bank,banking,banking,banking,0.7921
+"BNZ: Due to numerous failed card payments we are placing a hold on your account, to continue using BNZ services please verify your identity here <URL>",banking,banking,banking,0.856
+Dear Sbi YONO User Your Account will be Blocked Today Please Update your pan card is last date click here <URL>,banking,banking,banking,0.3804
+Dear SBI user your SBI YONO Account will be blocked . Please click here on the to update your PAN CARD details. Thank you,banking,banking,banking,0.8082
+Thank you for submitting your documents. Your Flipkart Axis Bank credit card application is being processed. We will inform you of the status shortly!,banking,banking,banking,0.9634
+"Dear customer, verify your ID, address & complete video KYC with YES BANK here <URL> BankBazaar Dear customer, verify your ID, address & complete video KYC with YES BANK here <URL> BankBazaar",banking,banking,banking,0.7659
+ClientTrScrp TradeCode Dear Your SBI YONO A/C Will be blocked update your PAN CARD Click here <URL> SBI TEAM ISSLTD SMCGlobal,banking,banking,banking,0.5992
+"ApplePay was deactivated on your mobile. To reactivate this feature on your device, visit the following link: <URL>",banking,banking,telecom,0.3135
+Chase Alert: Your Card starting with <NUMBER> has been deactivated. Please contact us at <PHONE_NUMBER> to activate your card.,banking,banking,banking,0.9666
+DEAR HdFc user your. Net Banking. Problem has been Blocked! d,banking,banking,banking,0.655
+"Dear User,You are 1 step away from Bajaj Finance Insta EMI Card. Click <URL> to complete your journey & enjoy No Cost EMI shopping",banking,banking,banking,0.8122
+Dear customer - your request for reverse pickup of your product USHA OFR 3209F Oil Filled Room Heater (Grey) under order number <PHONE_NUMBER> is in dispatch. We will pick this product by end of . Track your shipment here:,delivery,delivery,government,0.2677
+"Hello , Your order <NUMBER> was cancelled due to non-shipping by seller. A credit of ?250 will be made to your wallet and we?ll call you to replace. We apologize for the inconvenience. Regards",delivery,delivery,banking,0.5222
+Order Update Your order for SKECHERS PERFORMANCE Black... will be delivered by Amount to be paid is Rs. <NUMBER>. Track your order at - <URL>,delivery,delivery,banking,0.2948
+"Welcome to Dear sir Congratulation You are product order FLIPKART company At home online shopping Your name to open the bumper draw TATA SAFARI 12,<NUMBER> The charge of your REGISTRATION Service payThis is valid for please call-<PHONE_NUMBER>",delivery,delivery,banking,0.3111
+Your BevMo! order is scheduled for delivery at 7:00-8:00pm Reply STOP to turn off SMS.,delivery,delivery,telecom,0.3484
+Your order is ready for collection from ROCHDALE. Simply bring a copy of your email as proof of purchase. Thanks for shopping at,delivery,delivery,banking,0.284
+Package detained in terminal - Payment of freight is missing: $1 The package will be shipped immediately upon payment of freight.,delivery,delivery,delivery,0.4538
+Package detained in terminal: <URL>,delivery,delivery,government,0.2793
+"! Congrats ! Your Product Order FLIPKART LTD At FLIPKART MARKETING T.V Show Your Name Come To Open Lucky Draw Contest And You Are The Winner Of ( Tata Saafari) which cost is Rs. 12,<NUMBER>. Helpline No. <NUMBER> , <URL>r More Information You Can Visit Our Website - <URL>",delivery,delivery,delivery,0.268
+You have a message from SingPost! Your name is on the list since . See more and confirm: <URL>,delivery,delivery,delivery,0.8302
+2nd reminder: you have (1) Tesco package waiting since . Please check and confirm: <URL>,delivery,delivery,delivery,0.5521
+"Your order MMOVO-<NUMBER>-<NUMBER> is delivered. We will work harder to deliver your order on time. If you are not happy with any item, you can return or exchange here: Apologies, Team bigbasket",delivery,delivery,delivery,0.2693
+"Out for Delivery: FurnCentral Engineered... with tracking ID FMPP0385312696 from <URL>, will be delivered by an EKART Service Partner (call <NUMBER>).",delivery,delivery,delivery,0.5455
+"We have tried to deliver your item IE885496601EU, but there is no postage. Follow the instructions here <URL>",delivery,delivery,delivery,0.9269
+"Order for Cons No <NUMBER>6 is registered with Ref No. <URL>fill delivery ETA: . Pay online at <URL> .Be Home, Stay safe",delivery,delivery,banking,0.2852
+"Attempted delivery of your THINKLEARN SURFACE shipment, but could not reach you. If you want it to be de - livered , kindly call back <PHONE_NUMBER>",delivery,delivery,delivery,0.6069
+An Amazon driver needs help with your order. Reply STOP to stop receiving texts from Amazon drivers. is there any safe place to leave parcel?,delivery,delivery,delivery,0.4043
+Pickup Unsuccessful: GoPro HERO8 Black Spor... with tracking ID FMP... from <URL> could not be picked up due to unforeseen circumstances. We will try again .,delivery,delivery,delivery,0.2738
+Your Royal Mail parcel is awaiting delivery. Please confirm the settlement of 1.99 (GBP) on the following link: <URL>,delivery,delivery,delivery,0.9239
+"We were unable to deliver , please tell us when to retry: <URL>",delivery,delivery,delivery,0.4748
+"Hermes: Hi, we have missed your delivery . Please visit https:// <URL> to book a redelivery and pay the subcharge of 1.45 (GBP).",delivery,delivery,delivery,0.9692
+Hermes: We're Sorry! Our driver tried to deliver your parcel . Reschedule your delivery & track your parcels here: <URL>,delivery,delivery,delivery,0.9816
+"Your package is waiting for delivery. Confirm the settlement (1.65 EUR) in the following link, click here: 👇",delivery,delivery,delivery,0.4386
+"Your order Lenovo Intel core <NUMBER> Touch Laptop for $<NUMBER>.99 success on at AMZ. Order#41R14FT7 If NOT you, Please Contact <PHONE_NUMBER>, Thank you",delivery,delivery,banking,0.3344
+Your delivery has been returned to your local PostOffice branch due to an unpaid parcel fee. To reschedule delivery please visit,delivery,delivery,delivery,0.654
+"Hi, This is from Amazn. Final notice about your Order #<NUMBER>.",delivery,delivery,delivery,0.3533
+HermesUK: Our driver was unable to deliver your item . You can confirm your redelivery at <URL>,delivery,delivery,delivery,0.9535
+Due to no safe place to leave it the package no <NUMBER> was returned to the warehouse!,delivery,delivery,delivery,0.913
+Post0ffice: Sorry we missed you at on . Please book your re-delivery for your parcel here: <URL>,delivery,delivery,delivery,0.8715
+"A delivery package is pending under your name. To claim your package, visit us at",delivery,delivery,delivery,0.8758
+PostOffice: Sorry we missed you at on . Please update the system via: <URL>,delivery,delivery,delivery,0.5195
+Delayed at Customs: Your package is being processed by Customs officials. UPS may require additional information from you. More info at,delivery,delivery,government,0.6273
+Kindly Pay 01.75$ In Order To Receive You Parcel By The next 2-3 Working days.,delivery,delivery,delivery,0.8532
+"Post Office: Your parcel has been redirected to your local Post Office branch due to an unpaid shipping fee. To pay, visit: <URL>",delivery,delivery,delivery,0.7793
+"Hermes: You have missed your parcel, please pay the outstanding fee via: <URL> To avoid parcel being returned to sender.",delivery,delivery,delivery,0.9799
+Shipment Delay: The delivery of Ambrane <NUMBER> ... with tracking ID FMMPP0928975544 from <URL> has been delayed. We will deliver .,delivery,delivery,delivery,0.8615
+"Your package can't be delivered, customs fees (4.22 KW) have not been paid. Follow this link to pay: <URL>",delivery,delivery,delivery,0.3705
+"AWB:<NUMBER> from Sleepycat not fulfil as you want delivery later. For query call: , For feedback pls click <URL> Xpressbees",delivery,delivery,delivery,0.4664
+Your parcel has been redirected to your local AusPost branch due to unpaid shipping fees. You can schedule redelivery now at: <URL>,delivery,delivery,delivery,0.8745
+"This is a reminder that your package will be delivered only when we receive the 2,57 custom service fees. You can pay here now :",delivery,delivery,delivery,0.7645
+"HomeTown order <PHONE_NUMBER> of GLEAM STUDY TABLE+1 article items is out for delivery. Delivery associate , <PHONE_NUMBER> | We follow all safety guidelines. Your Safety is Our Priority. HomeTown order <PHONE_NUMBER> of GLEAM STUDY TABLE items is delivered successfully. Assembly (if applicable) within . Assembly for GLEAM STUDY TABLE items with order no. <PHONE_NUMBER>, is planned on {reschedule_date}. Pl Ignore if already done.| We follow all safety guidelines. Your Safety is Our Priority. - HOMETOWN",delivery,delivery,delivery,0.3604
+Co m e to our post office to get your delivery package.,delivery,delivery,delivery,0.9712
+"Out for Pickup: Jamini Printed Bollywood Co... with tracking ID FMPR0331196852 from <URL>, will be picked up before by an EKART Wish Master (call <PHONE_NUMBER>, PIN 169). Keep the product ready with all accessories and tags for verification. Ekart Update: We tried reaching you for shipment FMPR0331196852. Please call delivery executive on , pin 169.",delivery,delivery,delivery,0.4415
+PO-SA: IMPORT FEES DUE PACKLINK SHIPPING CO shipment scheduled. Pay online or pay driver on delivery.,delivery,delivery,government,0.4371
+Home delivery it is! Your parcel is expected to be delivered in working days. Your tracking code: #1W7839Z78894351,delivery,delivery,delivery,0.8998
+"Hi, with rgds to your feedback ref no <NUMBER>. our mgr tried calling <URL>ever, your no. was not reachable. Pls click on the link and suggest an alternate time. Link: <URL>",delivery,delivery,government,0.4102
+"DPD UK: You have one new notice regarding the hold placed on your delivery. For more information, please visit: <URL>",delivery,delivery,delivery,0.9329
+Your package will be returned because you have not paid the freight of 1.99SGD. Please complete the payment:,delivery,delivery,delivery,0.6931
+"Your parcel is ready for delivery, please confirm your shipping information to get your tracking code :",delivery,delivery,delivery,0.8542
+Pickup Rejected (missing contents): Pickup of W Women Crop Top and P... with tracking ID FMPR03030221413 from <URL> has been rejected. Contact <URL> CS for further assistance. Click to give feedback: <URL>,delivery,delivery,delivery,0.3929
+Your return pickup for <NUMBER>-<NUMBER> is scheduled for and will be picked up between 7:00AM-7:00PM by AmzAgent<PHONE_NUMBER>),delivery,delivery,government,0.402
+"Your SHOPEE package with <NUMBER> is available for self pickup 122, , Sikanderpur, Ballia, UP <NUMBER> DC. For queries call <PHONE_NUMBER> - Delhivery Your SHOPEE package with is available for self pickup 122, , Sikanderpur, Ballia, UP <NUMBER> DC. For queries call <PHONE_NUMBER> - Delhivery",delivery,delivery,government,0.2917
+"Australia Postal Service:Due to the damaged label, we cannot deliver the goods. Please update the address Click <URL>",delivery,delivery,delivery,0.8992
+"Hi , your order of boAt Rockerz 255 Pro T Wire... referenced under order no. <NUMBER> is successfully delivered. Thank you for shopping at Tata CLiQ. - Team Tata CLiQ",delivery,delivery,delivery,0.4174
+Your package could not be delivered due to no custom duty being paid (3.99-QAR). Follow the instructions here: <URL>,delivery,delivery,delivery,0.782
+DHL Express <PHONE_NUMBER> from SON OF A TAILOR estimated Fri 24 Jul. Signature req'd. Collect at Service Point + other options:,delivery,delivery,delivery,0.9723
+"HERMES: Sorry We Missed You Earlier, We Have Your Parcel, To Book A Redelivery Follow <URL> Or It Will Be Returned To It's Sender",delivery,delivery,delivery,0.3015
+Your 17 Laptop Bac.. order is Cancelled per request. Raise issue at <URL>,delivery,delivery,government,0.3229
+Pickup Failed: We were unable to pick up your Roadster Tshirts on . We'll come again & pick it up. Click to give feedback: <URL> - Team Myntra.,delivery,delivery,delivery,0.4207
+"A case has been opened against you ,for more info contact Captain on",government,government,government,0.4516
+"IMPORTANT:DVLA Swansea have been trying to contact you, Click below for more information.",government,government,government,0.6065
+"According to the new laws,you are entitled to 78.32 GBP refund on your vechicle tax,follow the link to claim it",government,government,government,0.6479
+"It’s D-DAY, Sub-county school selection results are out! To get the results, send index number to short code . This service costs Ksh 25 per SMS. Thank you",government,government,government,0.5005
+"Dear Customer at this moment we owe you a refund of 265.30 GBP, tax for : <URL>",government,government,banking,0.585
+You are to appear before the high court on . Please view the case documents on <URL> for more information. Kind Regards Attorneys,government,government,delivery,0.2869
+"Hi! It's from the Ontario NDP. Do you know about the election happening on ? (Text ""stop"" to opt out. SMS rates may apply.)",government,government,government,0.4833
+Index not found in the National/Extra County category or wrong format. Send index only or check for on 6th & SubCounty on <PHONE_NUMBER>,government,government,government,0.4157
+Beware of misleading calls reg. deletion from Voter List. Check ur name or send SMS SPACE EPIC No. to <PHONE_NUMBER>. To enrol visit <URL>.,government,government,government,0.5485
+DVLA: You still have an outstanding vehicle tax reimbursement of 63.97 GBP. Follow the link.,government,government,government,0.971
+"IncomeTax (e-filing) requires Sai Real Estate to click <URL> to submit a formal refund request for the remittance of your overdue approved refund of Rs25,271.09.",government,government,government,0.9241
+You have a refund pending from HMRC. Use our secure link to confirm your details for payment: [redacted],government,government,government,0.8433
+"Your Employment Application Was Successful Position : Administration Clerk Start Date: Place Of Work: (will be provided within ) Ref no: As stated on our website, All Candidates Are Required To Have A Police Clearance Before Applying For Any Vacancies at Sasol limited . Police Clearance is document to indicate if an individual has a criminal record or not. To Apply for a police clearance online email your full names,surname,id number and cell phone number to <EMAIL_ADDRESS> or visit <URL> PLEASE NOTE: SASOL IS EXPERIENCING A SHUT DOWN AND IS RECRUITING 89 NEW EMPLOYEES. NO INTERVIEW WAS HELD, SUCCESSFUL CANDIDATES WILL START WORKING UNDER PROBATION IMMEDIATELY FOR . EMPLOYMENT CONTRACT WILL BE REVIEWED AFTER . CANDIDATES WILL BE MADE PERMANENT DEPENDING ON THEIR PERFORMANCE NO POLICE CLEARANCE, NO WORK NONE NEGOTIABLE",government,government,government,0.4544
+DVLA: You have a refund of 80GBP. Please visit <URL> to process your refund. REF#98XW78Q,government,government,government,0.9324
+"Your refund is now available. Refund amount Eur:<NUMBER>,55. Please check: <URL> Revenue Team.",government,government,government,0.7231
+: Confirm your identity. Update your personal details mygov <URL>,government,government,government,0.7381
+"Dear Navin- Kondayur , the IncomeTaxDepartment wish to notify you that after the recent concluded account audit you are entitled to a refund of Rs 44,891.99 which is your accumulated excesses over . Click <URL> to submit a formal request.",government,government,government,0.9903
+"}, IncomeTax (e-filing) requires TechSaints Interito Pvt. Ltd. to click <URL> to submit a formal refund request for the remittance of your approved refund of <NUMBER>,290.09. N/B Mobile verification is mandatory * Corporate A/C are processed faster.",government,government,government,0.7693
+HMRC: Overpaid tax assessments are due by . Apply for your tax return early to avoid the rush:,government,government,government,0.9611
+<URL>: We are glad to inform you that your tax return is ready to be claimed. Claim now: <URL>,government,government,government,0.6942
+Someone who came in contact with you tested positive or has shown symptoms for COVID-19 & recommends you self-isolate/get tested. More at,government,government,government,0.3808
+"Dear Mr , Important announcement! We have changed the way to access the surgery. Please download and register yourself with application called <URL> and use the application whenever you need services we do provide. <URL> If you do need support, please contact us on <PHONE_NUMBER> or email <EMAIL_ADDRESS> Your NHS number Thank you.",government,government,government,0.776
+DMRC Records indicate that you have a pending tax rebate. Follow the link to collect your claim: <URL>,government,government,government,0.9117
+army payment successful received in your bank <URL>,government,government,banking,0.9715
+To download the COVID Safe mobile app: Click,government,government,telecom,0.2972
+"Dear M..., the Lagos State Government has chosen you as one of the registered residents of the State to benefit from the State's 'Emergency Food Response Package'. Kindly reply with 'FOOD YES' if your registered address: 1 ... is still valid for delivery of the Package. Thank you.",government,government,government,0.8539
+NOTICE TO ALL : All with valid acct & bvn are advice to contact the NIGERIA_CENTRE_FOR DISEASE_CONTROL_to claim their SHOTDOWN funds to enable them get some of their domestic needs pendind when the stay will be <URL>ll <PHONE_NUMBER> for more informtins.,government,government,government,0.8698
+client. Kindly register on <URL> to get your latest statement and transaction history.,government,government,banking,0.7244
+Traffic violations by your Vehicle No.: DL4SCV0173 found actionable vide challan No.DL19813191023132248. Click <URL> to see details and may pay fine of / -,government,government,government,0.5453
+"Dear customer for the ICT of COVID19 on Government policy to give away 30,000.00 incorporated with C.B.N, send your account detail or call <NUMBER> to verify.",government,government,government,0.5522
+HM Revenue & Customs <URL> Income Tax Important Notice! Please take action here: <URL>,government,government,government,0.9614
+"It has come to our attention that you have been out of the house more than once. Due to this irresponsible behaviour, we are issuing you a formal warning and £250 fine. If this continues, the fine could increase to a maximum of £<NUMBER> and/or an arrest. Payment will be taken automatically out of your account. Call <PHONE_NUMBER> for any enquiries or to appeal.",government,government,government,0.551
+"Dear student due to technical issues we are updating sBux, you will be called by an agent to validate your details. Issued by NSFAS. Ref:<NUMBER>",government,government,government,0.4987
+"NHS: You are eligible to apply for your NHS COVID pass. If you do not apply you may be fined. To apply for your pass, go to <URL>",government,government,government,0.7823
+"ATO: Hi, you are suspected in cryptocurrency Tax Evasion. To avoid a fine of ¤33,000AUD visit <URL> and connect your wallet.",government,government,government,0.9029
+You have 1 new message(s) from HMRC.: <URL>,government,government,government,0.899
+NHS: You are eligible to apply for a Covid Pass proving you have been vaccinated against . You can apply for this here: <URL>,government,government,government,0.6935
+"Dear Tax Payer,government has Issued covid-19 payment to all tax payment Click: <URL> To Confirm your payment, only for tax payer.",government,government,government,0.7277
+You will receive a witness citation by post to appear at Court in on . Ref: <NUMBER>. Please return the reply form within .,government,government,delivery,0.6724
+Thank you for being vaccinated from . We are crediting you 90.00$ CAD. Follow the instruction below:,government,government,government,0.4366
+GET BOOSTED NOW Every adult needs a booster vaccine to protect against Omicron. Get your COVID-19 vaccine or booster. See NHS website for details,government,government,government,0.549
+"NHS Test & Trace: Dear When you travel to you must take a coronavirus test within . If you do not, you may be fined. If you have taken a test or you have left , reply YES within of receiving this text. Find out more at",government,government,government,0.5943
+Our systems show that your eligible for a Covid Pass. To apply please fill out the application via : <URL>,government,government,government,0.6695
+GOVUK: You have a pending tax refund of £276.84 from HMRC. To proceed with your form please verify your information via: <URL>,government,government,government,0.9536
+"NHS Salford CCG: You are eligible to book your free Covid vaccination now. You must book your appointment online at <URL> Slots are added on a regular basis so if there are none available please try the following day. Those without internet access or who need digital assistance may call <PHONE_NUMBER>. Open until 9.00pm, Saturday 9.00am until 5.00pm, 10.00 am until 4.30pm. Please read the information regarding your vaccine on the website prior to attending for your vaccine. If you have already attended and received your covid vaccination please disregard this message.",government,government,government,0.6411
+REGISTER FOR VACCINE NOW age starting 18+ Register for vaccine using VaccRegis app. Download link below. Link: <URL>,government,government,government,0.4185
+Your RailMadal Reference No. <NUMBER> has been closed. Please check closing remarks and give your valuable feedback on <URL> .CRIS/ RailMadad,government,government,government,0.4432
+"RT-PCR sample collected for (Id:<NUMBER>) SRF ID <NUMBER> on . Please save for future reference. You are advised to isolate yourself till the sample is tested and test report is available. <URL> Your Sample has been sent to 3i Molecular Solutions and Healthcare Services Pvt. Ltd., .",government,government,government,0.398
+"You can never trust the , Labor or again. Authorised by , United Australia Party. Click on this link <URL>",government,government,government,0.5338
+Congratulations 9717XXXX01 You are qualified for a Rs.<NUMBER> Term Plan Under Pradhan mantri .,government,government,government,0.4066
+This message is brought to you by the Department of Transport and the RTMC. Your vehicle has been identified as being part of a safety recall campaign. You will be contacted by the manufacturer who will provide you with an appointment to visit their service centre. Please ensure that you engage in this critical safety matter as directed. Walking at night? Don't walk alone.,government,government,government,0.463
+"*PDP* ATIKU FOR PRESIDENT <NUMBER> vote ATIKU ABUBARKAR FOR change support with NGN70,000 as an Appreciation to Atiku supporters FOR-PAYMENT CALL <PHONE_NUMBER>",government,government,government,0.4983
+"NHS: In light of new regulations, you are now required to apply for a mandatory Omicron PCR test. To apply please visit: <URL> (You are required to report Results to <URL>)",government,government,government,0.9134
+Medicare: You have been in recent contact with a person who is positive for . Order a free test kit at:,government,government,government,0.5321
+"LINkt go: Please pay the road toll in time, late will affect your normal passage",government,government,government,0.8106
+"Dear Customer, As per Govt of India's Cyber , your device(s) linked to this contact number is probably infected with botnet malware. You are requested to visit <URL> for more information and remediation.",government,government,government,0.7444
+"Dear IEC Holder, It is mandatory to update your IEC before ...",government,government,government,0.484
+"NHS: You are obliged to apply for your Omicron PCR test. For more information and to apply, visit <URL>",government,government,government,0.8459
+NHS-UK: Test & Trace noticed you were in contact with somebody who has tested positive for . Please order a PCR test kit via: <URL>,government,government,government,0.6268
+A Recent influx in cases of the Omricon requires citizens to be tested. Order your free test kit on <URL>,government,government,government,0.6012
+You've been exposed to someone with (Omicron Variant). Please order a test kit immediately:,government,government,government,0.2891
+You have been enrolled in the National Weather System's Tornado Warning System. Please reply YES or NO to accept enrollment.,government,government,government,0.7168
+"Dear , your IT Refund of Rs.59,109 is ready. kindly click <URL> to submit a refund request to enable us process the same at the earliest. Regards,",government,government,banking,0.4157
+GOVUK:You are eligible for a discounted energy bill under the Energy Bills Support <URL> can apply here: <URL>,government,government,government,0.9134
+The £324 Cost of Living Payment will be paid automatically from . For more information search online for DWP Cost of Living Payment,government,government,government,0.4679
+[POFMA] You have been found to be in breach of POFMA. Please report to at . Attire is No 4 Dress with Head Dress.,government,government,government,0.8146
+"Dear SAVNAM, We received your request for ABPMJAY card. your request is under verification process. your reference number is.",government,government,banking,0.545
+", you have overpaid your fine and Revenue NSW does not have documentation to process a refund. Go to <URL> using your reference number to provide the information.",government,government,government,0.8332
+"Your to register/access CoWIN is . It will be valid for . - CoWIN Dear , You have successfully been vaccinated with your Dose with COVISHIELD on at . You may download your vaccination Certificate from - <URL> - CoWIN",government,government,government,0.423
+"This is your mom. We got into an accident! Send <NUMBER>,000 to this account.",hey mum/dad,personal,personal,0.2342
+"Y'ello, You have 100MB FREE data from MTN to enjoy on Facebook, WhatsApp & browse internet. To get it reply ""SG100MB""now! Offer valid for .",telecom,telecom,telecom,0.903
+"Hello! Games Club is now active on your number, as requested. This service is valid till and a rental of Rs 35 will reflect in your next bill. To deactivate, SMS STOP to call <NUMBER>(toll free).Click on the link to download content:",telecom,telecom,telecom,0.4395
+Automatic payment of your xfinity account of $397.95 is processed on:,telecom,telecom,banking,0.7367
+"(1/2) Services of your airtel digitalTV ID <PHONE_NUMBER> have been restarted from safe custody. Your account balance is <NUMBER>.64, valid till (2/2) To recharge, visit <URL> or dial *400# from your airtel mobile.",telecom,telecom,telecom,0.7789
+"Hi! 10GB 3G-4G monthly Data Pack @<NUMBER> is now active on your Vodafone Number. Use the FREE data to watch your favourite movies & TV Channels on the go, with Vodafone Play ( <URL> ). To check your data usage log on to <URL> Hello! Your 2GB Add-On Pack has been activated from 15:56:16 as per your request. This pack is valid till your bill date. Happy to help! Hi! 50GB 3G-4G monthly Data Pack @<NUMBER> is now active on your Vodafone Number. For BEST OFFERS or to check your data usage, log on to click <URL> Hi! 20GB 3G-4G monthly Data",telecom,telecom,telecom,0.4821
+"Dear Customer, There is an outstanding amount of AED 98.17, overdue for payment on your account number . Kindly make the payment immediately or call <NUMBER> for any clarifications. Please use your account id <NUMBER> while making payment through payment machine and",telecom,telecom,banking,0.6262
+Free VZW Msg: You're on the phone with and just authenticated with an alternative method. Not you? Please call us at <PHONE_NUMBER> immediately.,telecom,telecom,telecom,0.6308
+"Dear Customer, get <NUMBER> airtime when you transfer money to any bank account up to 5 times, using *737#. Offer valid from .",telecom,telecom,telecom,0.5097
+", pay before due date on IUC <PHONE_NUMBER> and you will be upgraded to for at no extra cost. T&Cs apply",telecom,telecom,government,0.3444
+"RSAWEB is bringing Fast Fibre Internet to you! Preorder now & SAVE <NUMBER>! <URL> Reply YES for more info, stop to opt out",telecom,telecom,government,0.3554
+"EE: We were unable to verify your direct debit. To avoid termination of your phone services, please follow our secure link: <URL>",telecom,telecom,telecom,0.8862
+"*OPTUS MSG* Billing problem. To avoid service termination, login to My Account now: <URL>",telecom,telecom,banking,0.5993
+"You have successfully purchased 10 Jio voucher(s) of MRP Rs. <PHONE_NUMBER> on your Jio Number <NUMBER>. Transaction ID : BV000011PHST To enjoy the benefits of this voucher, you need to redeem it. Click <URL> to view, redeem or transfer your voucher. To know how to redeem your voucher, click <URL> Dial , to know your current balance, validity, plan details and for exciting recharge plans.",telecom,telecom,telecom,0.4593
+No pmt received on ur VODACOM acc. Make an immediate pmt AND then set up a debit order by calling MBD INC. on ( . Ref: <NUMBER>.,telecom,telecom,banking,0.4037
+"iTunes - Your Apple ID account has been restricted. To restore services, visit <URL> to confirm your details.",telecom,telecom,government,0.2615
+"Please be informed that TRAI does not issue NOC for installation of mobile towers. If a fraudster approaches you with such a letter, the matter may be reported to the concerned mobile service provider.",telecom,telecom,government,0.3806
+"Important upgrade on your Mobile Account, kindly follow the link below.",telecom,telecom,telecom,0.4611
+To cancel your port out request please click link <URL> Thank you.,telecom,telecom,telecom,0.3972
+"Hello. We've been trying to call you about your <broadband/home phone> fault. If you're still having problems, please call us on free from any mobile or landline and we can go through some checks to help get things sorted. Just remember to mention your reference number Ä939556Ñ when you call. Or you can head to <URL> to find answers to our most common questions. If we don't hear from you, we'll automatically close our",telecom,telecom,government,0.5521
+GOOD NEWS! has Announced to give 25 data with free calls daily for Register to activate offer Link: <URL>,telecom,telecom,government,0.4553
+"Dear customer your number has been closed for please submit your Aadhar in your number kindly please call customer care: <PHONE_NUMBER> im,mediately",telecom,telecom,government,0.4673
+"Dear PA""YTM customer your PA""YTM K-Y-C has been suspnded call PA""YTM office phone no.<PHONE_NUMBER> immediately your account blocked within",telecom,telecom,government,0.4395
+You have used 2GBP of data at 9p/MB. For better value buy a SIMO plan from just 5 GBP at,telecom,telecom,telecom,0.5027
+"Exciting NEW offers when you Dial *121# OR Click <URL> to download MyMTNAPP, click on the MEGADEAL ZONE & crack the Egg to enjoy your offer",telecom,telecom,telecom,0.4806
+EE: We are having issues verifying your billing details. Update these details immediately at <URL> to avoid a block on your EE account.,telecom,telecom,telecom,0.8107
+"Telkom has restored the network outage that affected services on , . We are very sorry for any inconvenience caused and have loaded 500MB data so you can say sorry, thank you or I love you to the one you missed. This is valid for only.",telecom,telecom,telecom,0.5061
+Dear customer your number has been suspended for please submit your in your <URL>ease call customer care: <PHONE_NUMBER> <URL>ank You,telecom,telecom,telecom,0.4889
+Airtel:Dear Customer Your Airtel:SIM eK:Y:C Has Been Expired Today Please Call Customer Care No: <PHONE_NUMBER> Immediately Your Airtel:SIM Will Close Within,telecom,telecom,telecom,0.7766
+"EE: We've been unable take your payment for , to avoid fees, please update them at:",telecom,telecom,telecom,0.726
+Y'ello! Get 1GB at <NUMBER>/- and enjoy MTN's home bundle. Dial *150* to buy using MoMo. Bundle valid . #FightCoronatogether. DND * .,telecom,telecom,telecom,0.6516
+"Your account <NUMBER> has been disconnected due to insufficient funds. Pls Pay Ksh5,<PHONE_NUMBER> for Zuku Service to reconnect and EARN Loyalty Point pay via <NUMBER>. Pay and enjoy unlimited internet powered by Zuku Fiber on AC <NUMBER>. Mpesa Pay Bill <NUMBER>.",telecom,telecom,government,0.3281
+"Three: We regret to inform you that your allowances have been stopped, please confirm your information at: <URL>",telecom,telecom,government,0.5891
+"Airtel Pack Expired!Recharge with Rs 249 pack -Get ,UNLIMITED calls across to any network and 100SMS for .Dial *121* <URL>",telecom,telecom,telecom,0.85
+Your N100_Oneoff has expired. To buy a data plan of your choice visit <URL> or dial *777#.,telecom,telecom,telecom,0.4124
+"Dear Customer! Your SIM Card (KYC)Has been pending, Your SIM Card Will Be Blocked Please Call Customer Care <PHONE_NUMBER> Within 24Hrs Thanks you?",telecom,telecom,telecom,0.5187
+"Your last payment attempt of Rs. <PHONE_NUMBER> on 01:45:16 PM for number <NUMBER> was unsuccessful. Please try again. Transaction ID : TB00000J2VBP. In case any amount has been deducted from your account, then it will be automatically refunded by your bank/card/wallet within .",telecom,telecom,banking,0.5532
+"We have been unable to process your bill payment, to avoid extra charges please go to <URL>",telecom,telecom,banking,0.6177
+"Dear Sir / Madam Please be informed that your UMOBILE Bill for Account No : 1.<NUMBER> is overdue, Please make payment before to avoid any further action from Umobile. Please call our agent at 03-<NUMBER> for any inquiries or to make payment arrangement. Please ignore this message if payment have been made Tq.",telecom,telecom,telecom,0.4587
+"Dear Customer, charges for your PTCL connection <PHONE_NUMBER> are now Rs. 1,829. Keep enjoying High-Speed Internet. For information, call <NUMBER>.",telecom,telecom,government,0.3375
+Dear S: user your Document:K:YC is pending please call our customer: No your service will Bloke within 24Hrs .thank you,telecom,telecom,telecom,0.3456
+"Dear AirTel User, Your SIM Has Been Close <URL>ease Update Your SIM. Call us on , immediately. Otherwise Your SIM will block in 20hrs Thanks",telecom,telecom,telecom,0.7417
+"Hi, while investigating for the Service Request No. 31-<NUMBER> related to DND issue on your Airtel number, we couldn't find the call/SMS records for reported content for shared date. Hence, no action has been taken against the sender. If you are not satisfied with the resolution, contact 198/appellate to raise an appeal.",telecom,telecom,telecom,0.5214
+"Dear customer your Airtel sim Number has been blocked for please Ek yc Update submit Ad dahr Card please call customer care <PHONE_NUMBER> im,mediately",telecom,telecom,telecom,0.6419
+"BSNL- Security Alert- Dear Customer Your BSNL Sim KYC Has Been Expired Contact BSNL Customer Care No. <PHONE_NUMBER> , <URL>",telecom,telecom,telecom,0.4671
+Dear BSNL User your Sim Card verification is pendind. Please call our Customers Service no <PHONE_NUMBER>. your service will be Blocked with in Thank You,telecom,telecom,telecom,0.7755
+"Hi, we've noticed your device is sending a high volume of SMS, meaning it may be infected with malware/virus. For more information and how to remove the malware, head to the scam page on the Vodafone website: <URL> Thanks, Your Vodafone Team",telecom,telecom,telecom,0.6072
+"Update:Hi from EE. As requested we've added an additional phone line to your account. If you didnt request this change, report it ASAP at <URL>",telecom,telecom,telecom,0.6359
+Dear Custome'r Your Vodafone/idea e.K.Y.C Document have been <URL> <PHONE_NUMBER> immediately Otherwise your <URL> will be block in 24hrs,telecom,telecom,telecom,0.65
+Dear Customer Your SIM documents has been <URL>ease call customer care no <PHONE_NUMBER> <URL>r SIM will deactivated <URL>ank You,telecom,telecom,telecom,0.5784
+Dear Airtel SIM customer your KYC has been. suspended. To Verified Airtel SIM KYC call <PHONE_NUMBER> immediately. Your account will be blocked within,telecom,telecom,telecom,0.5848
+"Dear customer, Your jio sim card will be block in due to suspended KYC document please contact our helpline <NUMBER> Thank you,",telecom,telecom,telecom,0.4628
+"Dear Customer, as per your request your Mobile number is Changed from... to <NUMBER>. kindly seed your Aadhaar no.-CBol",telecom,telecom,government,0.4581
+"AT&T Free Msg: bill processed. Thanks, ! Here's a little freebie for you:",telecom,telecom,telecom,0.8091
+"Dear Customer, Welcome to Hath-way Digital TV services. Your ID is <NUMBER>. Please click on the link given below and verify your number with",telecom,telecom,telecom,0.3196
+"Dear Customer, Welcome to <URL> you can download the BSNL Mobile app from <URL> for recharge and bill payment",telecom,telecom,telecom,0.7599
+"Dear customer, Your BSNL SiM documents has been pending your Number will be close within <URL>re inquiry cal <PHONE_NUMBER>.",telecom,telecom,government,0.367
+"ROGERS WIRELESS INC.*** As you know, there was a huge outage on our mobile services. To make up for our mistake, we are offering you a credit of $50.00 CAD. Sorry for the inconvenience. Get hold of it here :",telecom,telecom,telecom,0.4349
+"Your Refund Bill is now available! Dear Customer, The total balance for your as of is $76.15. Amount due (where applicable) will be automatically deducted from your card. We have noticed that you have paid your invoice twice at the same time. You can now view your Refund bill, click here and log in with your <NUMBER> ID. This is a system-generated e-mail. Please do not reply to this email. Thank you.",telecom,telecom,banking,0.8066
+"Your postpaid service is overdue $14.97. To avoid service interruptions, please update your payment details: <URL> - DO NOT REPLY BY .",telecom,telecom,telecom,0.4173
+"Apple Pay: Restrictions on your Apple Wallet have been applied, due to a network update. Please lift restrictions now:",telecom,telecom,banking,0.4388
+"Apple: Your Apple Pay has been restricted due to unusual activity, please validate your details to lift your restrictions:",telecom,telecom,banking,0.458
+Dear D2h Customer [REDACTED] This is your (OTP). Thank You. Dia,telecom,telecom,telecom,0.288
+"Thank you for choosing JioGigaFiber. Order No. for Giga Internet connection is . Payment invoice has been sent on your registered email id. You will shortly receive a notification confirming date and time of installation appointment. For any queries or support, you may contact us on .",telecom,telecom,banking,0.3186
+"Your THREE number will be transferred as requested on . If this was NOT you, visit : <URL>",telecom,telecom,telecom,0.3448
+"Hi! Your Prepaid to Postpaid conversion request with reference no. MNG-<NUMBER> dated 24 Jun 22 is processed. Thank you for showing interest in Postpaid, keep enjoying Postpaid benefits on same SIM. For any further assistance, dial 199. <NUMBER> recharged!Enjoy Unlimited Calls+1.5GB/Day Data+100 SMS/<URL>lid for 28 DaysYour Vi-exclusive Night & Weekend Data benefits activated, click",telecom,telecom,telecom,0.3274
+"Hi , a reminder that your bill for account ending in ... for $181.63 will be paid on via direct debit using your nominated card or account. You can view and manage payments through the My app here <URL>",telecom,telecom,banking,0.5067
+"Dear Customer your SIM card ha's been BLOC-KED due to ( ) update within please contact customer care no. <PHONE_NUMBER> to continue your service, Thank Y",telecom,telecom,telecom,0.6456
+"PORT <PHONE_NUMBER> Not sent, tap to try again. • via airtel PORT <PHONE_NUMBER> Not sent, tap to try again. • via airtel Port <PHONE_NUMBER> Not sent, tap to try again. • via airtel PORT <PHONE_NUMBER> Not sent, tap to try again. • via airtel PORT8179862045 Not sent, tap to try again. • via airtel PORT8179862044 Not sent, tap to try again. • via airtel PORT <PHONE_NUMBER> Not sent, tap to try again. • via airtel PORT8179862044 Not sent, tap to try again. • via airtel PORT <PHONE_NUMBER> Not sent, tap to try again. • via airtel PORT <PHONE_NUMBER> Not sent, tap to try again. • via airtel PORT <PHONE_NUMBER>",telecom,telecom,telecom,0.2687
+Please be advised that you are required to complete a full identity check to keep your mobile service active,telecom,telecom,government,0.4604
+"From British Gas. To make sure your consumption is charged as accurately as possible ahead of any price changes, could you please reply with a Gas and Elec Meter Reading in the following format <NUMBER> or <NUMBER>. Thanks, your British Gas Team.",telecom,telecom,government,0.5043
+"RMO UMobile: Hooray! Your plan is upgraded to GX68! Download MyUMobile App @ <URL> to check bill, usage, rewards and more",telecom,telecom,telecom,0.606
+Apple Pay on this device has been disabled due to a network change. You can reactivate contactless payments by visiting: <URL>,telecom,telecom,banking,0.4635
+"GigaDays starts now! Get FREE 1.9 GB from 9:19am-1:19pm for TODAY ONLY, and redeem exciting promos with your GigaPoints! Tap <URL> now!",telecom,telecom,telecom,0.3314
+Dear customer VI SIM document rejected service block and deactivated plz customer care no <NUMBER> immediately call thank you,telecom,telecom,telecom,0.6456
+"Hello , we regret any inconvenience caused. Please note that the service cannot be activated on your number without your consent. These third-party services are subscribed when a user clicks on pop-ups and advertisements while browsing the internet. You are requested to not click on any pop-ups or unsolicited links to avoid subscribing to the same. However, to unsubscribe form the service type UNSUB and send it to <NUMBER>.",telecom,telecom,telecom,0.529
+Dear Cust0mer. Your AiRTEL S.I.M Has been <URL>d Due to K.Y.C Update Within <URL>s please Co.ntact to continue <URL>rvice AiRTEL TEAM,telecom,telecom,government,0.2978
+"RM5.00 Successful registration Fee: RM5.00/ Price:RM4.00/ SMS:4ms/ Monthly Renewal To cancel, send STOP DL13 to <NUMBER>",telecom,telecom,government,0.2784
+"Worry for Limited data, Now get Unlimited data and voice calls along with 1 Years Subscriptions for Disney Hotstar and Amazon prime for Just Rs.699/- To avail the benefit click <URL>",telecom,telecom,banking,0.3026
+"It's Rep. . Congress is voting on a debt ceiling deal that avoids default but foregoes necessary spending reforms. In fact, it includes upholding 's student loan forgiveness plan, funding an IRS expansion, etc. Tell me how you'd vote here:",government,government,delivery,0.2802
+"We are revoking your J. P MORGAN Access due to odd activities. To regain access, Verify info at <URL> or contact customer service. (6lsh)",banking,banking,banking,0.372
+"Your package has arrived at the warehouse, but cannot be delivered due to incomplete address information. Please update your address promptly, otherwise the package will be returned.",delivery,delivery,delivery,0.8136
+<EMAIL_ADDRESS>:Can you contact us as soon as possible on regarding activity on your permanent tsb Visa Debit card. Thank you.,banking,banking,banking,0.9547
+"Your Michigan Nurse Aide certification expires on , . Go to <URL> to learn how to renew.",government,government,government,0.3881
+Your Walmart order was delivered. Thanks for shopping with us! Reply HELP for info; STOP to opt out,delivery,delivery,delivery,0.3623
+"Shipment attempt 2/2 - Item-I<NUMBER>03ZA needs your attention, and will be returned, if not confirmed: <URL>",delivery,delivery,delivery,0.7875
+"We are sorry to inform your parcel can't be delivered due to invalid details, Confirm your addrss to receive your shipment",delivery,delivery,delivery,0.9017
+We have noticed that you're eligible to apply for your NHS COVID pass. Failure to apply will result in a fine. Get your pass at,government,government,government,0.7896

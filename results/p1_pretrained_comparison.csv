@@ -1,5 +1,5 @@
 pipeline,role,model,n_samples,runtime_seconds,ms_per_message,parameters_millions,device,accuracy,precision_scam,recall_scam,f1_scam,false_positive_rate,tp,fp,tn,fn
-P1 scam vs safe,candidate,mrm8488/bert-tiny-finetuned-sms-spam-detection,1510,1.34,0.89,4.4,Apple GPU (MPS) on arm64,0.543,0.9917,0.3426,0.5092,0.0065,358,3,462,687
-P1 scam vs safe,candidate,mariagrandury/roberta-base-finetuned-sms-spam-detection,1510,12.38,8.2,124.6,Apple GPU (MPS) on arm64,0.796,0.9986,0.7062,0.8274,0.0022,738,1,464,307
-P1 scam vs safe,candidate,Ngadou/bert-sms-spam-dectector,1510,11.99,7.94,109.5,Apple GPU (MPS) on arm64,0.845,0.9092,0.8622,0.8851,0.1935,901,90,375,144
-P1 scam vs safe,benchmark,rasheq/scam-shield-distilbert,1510,5.97,3.95,67.0,Apple GPU (MPS) on arm64,0.9848,0.9904,0.9876,0.989,0.0215,1032,10,455,13
+P1 scam vs safe,candidate,mrm8488/bert-tiny-finetuned-sms-spam-detection,1510,5.9,3.91,4.4,NVIDIA GeForce RTX 5070,0.543,0.9917,0.3426,0.5092,0.0065,358,3,462,687
+P1 scam vs safe,candidate,mariagrandury/roberta-base-finetuned-sms-spam-detection,1510,1.96,1.3,124.6,NVIDIA GeForce RTX 5070,0.796,0.9986,0.7062,0.8274,0.0022,738,1,464,307
+P1 scam vs safe,candidate,Ngadou/bert-sms-spam-dectector,1510,1.95,1.29,109.5,NVIDIA GeForce RTX 5070,0.845,0.9092,0.8622,0.8851,0.1935,901,90,375,144
+P1 scam vs safe,benchmark,rasheq/scam-shield-distilbert,1510,1.07,0.71,67.0,NVIDIA GeForce RTX 5070,0.9848,0.9904,0.9876,0.989,0.0215,1032,10,455,13

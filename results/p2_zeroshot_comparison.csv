@@ -1,0 +1,4 @@
+pipeline,role,model,n_samples,runtime_seconds,ms_per_message,parameters_millions,device,accuracy,macro_f1
+P2 scam-type tagging,candidate,facebook/bart-large-mnli,737,18.35,24.9,407.3,NVIDIA GeForce RTX 5070,0.6214,0.5557
+P2 scam-type tagging,candidate,MoritzLaurer/deberta-v3-base-zeroshot-v2.0,737,2.85,3.87,184.4,NVIDIA GeForce RTX 5070,0.8168,0.7571
+P2 scam-type tagging,candidate,typeform/distilbert-base-uncased-mnli,737,2.9,3.94,67.0,NVIDIA GeForce RTX 5070,0.3826,0.251

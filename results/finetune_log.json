@@ -1,0 +1,83 @@
+{
+  "base_model": "mariagrandury/roberta-base-finetuned-sms-spam-detection",
+  "device": "NVIDIA GeForce RTX 5070",
+  "train_rows": 21054,
+  "validation_rows": 1508,
+  "hyper_parameters": {
+    "num_train_epochs": 3,
+    "learning_rate": 2e-05,
+    "per_device_train_batch_size": 32,
+    "weight_decay": 0.01,
+    "warmup_steps": 0.06,
+    "fp16": true,
+    "seed": 42,
+    "max_tokens": 128
+  },
+  "training_minutes": 1.8,
+  "best_validation_scores": {
+    "eval_loss": 0.05669693648815155,
+    "eval_accuracy": 0.9847480106100795,
+    "eval_precision_scam": 0.9913294797687862,
+    "eval_recall_scam": 0.9865771812080537,
+    "eval_f1_scam": 0.9889476213358962,
+    "eval_false_positive_rate": 0.01935483870967742,
+    "eval_runtime": 0.6703,
+    "eval_samples_per_second": 2249.572,
+    "eval_steps_per_second": 35.802,
+    "epoch": 3.0
+  },
+  "epoch_history": [
+    {
+      "eval_loss": 0.11425770074129105,
+      "eval_accuracy": 0.9615384615384616,
+      "eval_precision_scam": 0.9795520934761441,
+      "eval_recall_scam": 0.9645254074784276,
+      "eval_f1_scam": 0.9719806763285024,
+      "eval_false_positive_rate": 0.04516129032258064,
+      "eval_runtime": 0.6799,
+      "eval_samples_per_second": 2217.931,
+      "eval_steps_per_second": 35.299,
+      "epoch": 1.0,
+      "step": 658
+    },
+    {
+      "eval_loss": 0.05669693648815155,
+      "eval_accuracy": 0.9847480106100795,
+      "eval_precision_scam": 0.9913294797687862,
+      "eval_recall_scam": 0.9865771812080537,
+      "eval_f1_scam": 0.9889476213358962,
+      "eval_false_positive_rate": 0.01935483870967742,
+      "eval_runtime": 0.6755,
+      "eval_samples_per_second": 2232.455,
+      "eval_steps_per_second": 35.53,
+      "epoch": 2.0,
+      "step": 1316
+    },
+    {
+      "eval_loss": 0.10680490732192993,
+      "eval_accuracy": 0.980106100795756,
+      "eval_precision_scam": 0.9922254616132167,
+      "eval_recall_scam": 0.9789069990412272,
+      "eval_f1_scam": 0.9855212355212355,
+      "eval_false_positive_rate": 0.017204301075268817,
+      "eval_runtime": 0.6821,
+      "eval_samples_per_second": 2210.937,
+      "eval_steps_per_second": 35.187,
+      "epoch": 3.0,
+      "step": 1974
+    },
+    {
+      "eval_loss": 0.05669693648815155,
+      "eval_accuracy": 0.9847480106100795,
+      "eval_precision_scam": 0.9913294797687862,
+      "eval_recall_scam": 0.9865771812080537,
+      "eval_f1_scam": 0.9889476213358962,
+      "eval_false_positive_rate": 0.01935483870967742,
+      "eval_runtime": 0.6703,
+      "eval_samples_per_second": 2249.572,
+      "eval_steps_per_second": 35.802,
+      "epoch": 3.0,
+      "step": 1974
+    }
+  ]
+}
