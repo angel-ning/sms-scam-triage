@@ -70,6 +70,11 @@ FINETUNED_DIRNAME = "finetuned-scam-classifier"
 # Hugging Face Hub repo the fine-tuned model is uploaded to (used by the app).
 HF_MODEL_REPO = "Angel426/att-sms-scam-classifier"
 
+GROUP_NUMBER = "25"
+HF_MODEL_URL = f"https://huggingface.co/{HF_MODEL_REPO}"
+APP_URL = "https://att-sms-scam-triage.streamlit.app"
+GITHUB_URL = "https://github.com/angel-ning/sms-scam-triage"
+
 # Fine-tuning hyper-parameters
 MAX_TOKENS = 128            # SMS median is ~100 characters, so 128 tokens is plenty
 TRAIN_EPOCHS = 3
